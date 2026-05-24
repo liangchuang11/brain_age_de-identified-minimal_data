@@ -1,0 +1,6 @@
+Network,Annotation
+MyList,GO:0008380|RNA splicing|-11.4;GO:0016071|mRNA metabolic process|-10.8;GO:0006397|mRNA processing|-10.6
+MyList_MCODE_ALL,GO:0006397|mRNA processing|-15.3;GO:0008380|RNA splicing|-14.9;GO:0016071|mRNA metabolic process|-13.5
+MyList_SUB1_MCODE_1,GO:0042797|tRNA transcription by RNA polymerase III|-7.0;GO:0009304|tRNA transcription|-6.9;GO:0042698|ovulation cycle|-6.5
+MyList_SUB1_MCODE_2,"GO:0008380|RNA splicing|-11.2;GO:0006397|mRNA processing|-10.6;GO:0000398|mRNA splicing, via spliceosome|-10.5"
+MyList_SUB1_MCODE_3,GO:0008380|RNA splicing|-5.6;GO:0006397|mRNA processing|-5.4;GO:0016071|mRNA metabolic process|-5.0
