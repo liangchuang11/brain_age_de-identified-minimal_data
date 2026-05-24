@@ -1,0 +1,11 @@
+Network,Annotation
+MyList,GO:0032446|protein modification by small protein conjugation|-7.6;GO:0080135|regulation of cellular response to stress|-6.8;GO:0016567|protein ubiquitination|-6.7
+MyList_MCODE_ALL,GO:0035269|protein O-linked mannosylation|-6.6;GO:0035268|protein mannosylation|-6.1;GO:0097502|mannosylation|-6.1
+MyList_SUB1_MCODE_1,GO:0006626|protein targeting to mitochondrion|-8.2;GO:0072655|establishment of protein localization to mitochondrion|-7.9;GO:0070585|protein localization to mitochondrion|-7.6
+MyList_SUB1_MCODE_2,GO:0035269|protein O-linked mannosylation|-10.0;GO:0035268|protein mannosylation|-9.4;GO:0097502|mannosylation|-9.4
+MyList_SUB1_MCODE_3,GO:0062013|positive regulation of small molecule metabolic process|-4.8;GO:0016310|phosphorylation|-4.0;GO:0031668|cellular response to extracellular stimulus|-4.0
+MyList_SUB1_MCODE_4,GO:0006325|chromatin organization|-4.3;GO:0006351|DNA-templated transcription|-3.4;GO:0032774|RNA biosynthetic process|-3.3
+MyList_SUB1_MCODE_5,GO:0006672|ceramide metabolic process|-8.1;GO:0030148|sphingolipid biosynthetic process|-8.0;GO:0046467|membrane lipid biosynthetic process|-7.5
+MyList_SUB1_MCODE_6,GO:0006897|endocytosis|-6.4;GO:0098657|import into cell|-5.8;GO:0006898|receptor-mediated endocytosis|-5.8
+MyList_SUB1_MCODE_7,GO:0016339|calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules|-11.4;GO:0007156|homophilic cell adhesion via plasma membrane adhesion molecules|-9.1;GO:0044331|cell-cell adhesion mediated by cadherin|-8.5
+MyList_SUB1_MCODE_8,GO:0016567|protein ubiquitination|-5.0;GO:0032446|protein modification by small protein conjugation|-4.9
