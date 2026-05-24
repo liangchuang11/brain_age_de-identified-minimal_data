@@ -1,0 +1,19 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-7.897649963785103,GO:0009987,cellular process,M1,1,GO:0061024 membrane organization
+1,-7.567768925466837,GO:0051179,localization,M1,1,GO:0006897 endocytosis
+1,-6.928813695606324,GO:0008152,metabolic process,M1,1,GO:0016071 mRNA metabolic process
+1,-6.13043225192879,GO:0050896,response to stimulus,M1,1,GO:0071383 cellular response to steroid hormone stimulus
+1,-5.149530468855281,GO:0032502,developmental process,M1,1,GO:0060322 head development
+1,-5.002182159828348,GO:0048519,negative regulation of biological process,M1,1,GO:1902532 negative regulation of intracellular signal transduction
+1,-3.8632617709664254,GO:0050789,regulation of biological process,M1,1,GO:0031344 regulation of cell projection organization
+1,-3.7453157783741604,GO:0042592,homeostatic process,M1,1,GO:0019725 cellular homeostasis
+1,-3.578482675292813,GO:0032501,multicellular organismal process,M1,1,GO:0019227 neuronal action potential propagation
+1,-3.578482675292813,GO:0065007,biological regulation,M1,1,GO:0098870 action potential propagation
+1,-3.1762243751763357,GO:0048518,positive regulation of biological process,M1,1,GO:0071902 positive regulation of protein serine/threonine kinase activity
+1,-2.956669110192785,GO:0040007,growth,M1,1,GO:0035265 organ growth
+1,-2.804323056745092,GO:0048511,rhythmic process,M1,1,GO:0042698 ovulation cycle
+1,-2.7145214663565436,GO:0040011,locomotion,M1,1,GO:0048842 positive regulation of axon extension involved in axon guidance
+1,-2.6960750254338763,GO:0002376,immune system process,M1,1,GO:0030183 B cell differentiation
+1,-2.2182345350686337,GO:0022414,reproductive process,M1,1,GO:0060768 regulation of epithelial cell proliferation involved in prostate gland development
+1,-2.0236365360074435,GO:0043473,pigmentation,M1,1,GO:0043473 pigmentation
+1,-2.0014223211632407,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0044000 movement in host

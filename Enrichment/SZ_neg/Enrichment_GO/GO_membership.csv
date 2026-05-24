@@ -1,0 +1,453 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.1,GO:0034330,cell junction organization,M1,1,0
+1,-4.5,GO:0030029,actin filament-based process,M1,1,0
+1,-5.3,GO:0032870,cellular response to hormone stimulus,M1,1,0
+1,-2.4,GO:0010501,RNA secondary structure unwinding,M1,1,0
+1,-3.2,GO:0006906,vesicle fusion,M1,1,0
+1,-2.7,GO:0010807,regulation of synaptic vesicle priming,M1,1,0
+1,-2.2,GO:0006887,exocytosis,M1,1,0
+1,-2.2,GO:0032007,negative regulation of TOR signaling,M1,1,0
+1,-2.8,GO:0040007,growth,M1,1,0
+1,-2.8,GO:0086010,membrane depolarization during action potential,M1,1,0
+1,-2,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-2.1,GO:0060260,regulation of transcription initiation by RNA polymerase II,M1,1,0
+1,-2.1,GO:0042113,B cell activation,M1,1,0
+1,-4.1,GO:0009259,ribonucleotide metabolic process,M1,1,0
+1,-2.2,GO:0043255,regulation of carbohydrate biosynthetic process,M1,1,0
+1,-2.4,GO:0043129,surfactant homeostasis,M1,1,0
+1,-2.6,GO:0099643,signal release from synapse,M1,1,0
+1,-2.4,GO:0006111,regulation of gluconeogenesis,M1,1,0
+1,-2.5,GO:0048537,mucosa-associated lymphoid tissue development,M1,1,0
+1,-2,GO:0031503,protein-containing complex localization,M1,1,0
+1,-2.1,GO:0002262,myeloid cell homeostasis,M1,1,0
+1,-3.2,GO:0010906,regulation of glucose metabolic process,M1,1,0
+1,-3.7,GO:0055082,intracellular chemical homeostasis,M1,1,0
+1,-2.1,GO:0106027,neuron projection organization,M1,1,0
+1,-2.2,GO:1901615,organic hydroxy compound metabolic process,M1,1,0
+1,-7.6,GO:0006897,endocytosis,M1,1,0
+1,-2.5,GO:0007369,gastrulation,M1,1,0
+1,-2.4,GO:0007005,mitochondrion organization,M1,1,0
+1,-4.3,GO:0030522,intracellular receptor signaling pathway,M1,1,0
+1,-2.7,GO:0009165,nucleotide biosynthetic process,M1,1,0
+1,-2.7,GO:0008380,RNA splicing,M1,1,0
+1,-2.1,GO:0009129,pyrimidine nucleoside monophosphate metabolic process,M1,1,0
+1,-2.1,GO:0045860,positive regulation of protein kinase activity,M1,1,0
+1,-2.5,GO:0045324,late endosome to vacuole transport,M1,1,0
+1,-2.9,GO:0021702,cerebellar Purkinje cell differentiation,M1,1,0
+1,-3.6,GO:0050772,positive regulation of axonogenesis,M1,1,0
+1,-2.4,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-2.2,GO:0006399,tRNA metabolic process,M1,1,0
+1,-2.2,GO:0007009,plasma membrane organization,M1,1,0
+1,-4.7,GO:0071394,cellular response to testosterone stimulus,M1,1,0
+1,-2.4,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-2.6,GO:0030098,lymphocyte differentiation,M1,1,0
+1,-3.7,GO:0043043,peptide biosynthetic process,M1,1,0
+1,-3.7,GO:0060766,negative regulation of androgen receptor signaling pathway,M1,1,0
+1,-2.1,GO:0009411,response to UV,M1,1,0
+1,-2.3,GO:0032509,endosome transport via multivesicular body sorting pathway,M1,1,0
+1,-3,GO:0006637,acyl-CoA metabolic process,M1,1,0
+1,-4,GO:1903532,positive regulation of secretion by cell,M1,1,0
+1,-2,GO:0043254,regulation of protein-containing complex assembly,M1,1,0
+1,-2,GO:0043473,pigmentation,M1,1,0
+1,-2.3,GO:0016073,snRNA metabolic process,M1,1,0
+1,-2.3,GO:0007268,chemical synaptic transmission,M1,1,0
+1,-2.9,GO:0031401,positive regulation of protein modification process,M1,1,0
+1,-3.6,GO:0006305,DNA alkylation,M1,1,0
+1,-3.6,GO:0006306,DNA methylation,M1,1,0
+1,-6.2,GO:0060627,regulation of vesicle-mediated transport,M1,1,0
+1,-2.1,GO:0006670,sphingosine metabolic process,M1,1,0
+1,-3.8,GO:0032446,protein modification by small protein conjugation,M1,1,0
+1,-2,GO:0045727,positive regulation of translation,M1,1,0
+1,-3.3,GO:0006412,translation,M1,1,0
+1,-4.1,GO:0051046,regulation of secretion,M1,1,0
+1,-2.6,GO:0007269,neurotransmitter secretion,M1,1,0
+1,-2.6,GO:0060038,cardiac muscle cell proliferation,M1,1,0
+1,-2.7,GO:0036151,phosphatidylcholine acyl-chain remodeling,M1,1,0
+1,-3.7,GO:0034033,purine nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-2.7,GO:0031338,regulation of vesicle fusion,M1,1,0
+1,-2.6,GO:0008015,blood circulation,M1,1,0
+1,-3.2,GO:0044092,negative regulation of molecular function,M1,1,0
+1,-2.6,GO:0021694,cerebellar Purkinje cell layer formation,M1,1,0
+1,-2.8,GO:0070588,calcium ion transmembrane transport,M1,1,0
+1,-2.7,GO:0030307,positive regulation of cell growth,M1,1,0
+1,-6.2,GO:0006325,chromatin organization,M1,1,0
+1,-2.8,GO:0010975,regulation of neuron projection development,M1,1,0
+1,-3.5,GO:1901361,organic cyclic compound catabolic process,M1,1,0
+1,-2.8,GO:0006417,regulation of translation,M1,1,0
+1,-2.2,GO:0014706,striated muscle tissue development,M1,1,0
+1,-2.4,GO:0001944,vasculature development,M1,1,0
+1,-2.9,GO:0033574,response to testosterone,M1,1,0
+1,-3.5,GO:0042594,response to starvation,M1,1,0
+1,-2.7,GO:0071375,cellular response to peptide hormone stimulus,M1,1,0
+1,-2,GO:0009154,purine ribonucleotide catabolic process,M1,1,0
+1,-2.1,GO:0031668,cellular response to extracellular stimulus,M1,1,0
+1,-2.1,GO:0090132,epithelium migration,M1,1,0
+1,-2.9,GO:0050801,monoatomic ion homeostasis,M1,1,0
+1,-2.6,GO:0046007,negative regulation of activated T cell proliferation,M1,1,0
+1,-2.4,GO:0019751,polyol metabolic process,M1,1,0
+1,-2.3,GO:0071243,cellular response to arsenic-containing substance,M1,1,0
+1,-4.2,GO:0021549,cerebellum development,M1,1,0
+1,-2.2,GO:0016049,cell growth,M1,1,0
+1,-2.9,GO:0031960,response to corticosteroid,M1,1,0
+1,-2.1,GO:0097250,mitochondrial respirasome assembly,M1,1,0
+1,-3.1,GO:0009416,response to light stimulus,M1,1,0
+1,-3,GO:0035725,sodium ion transmembrane transport,M1,1,0
+1,-3.9,GO:0031344,regulation of cell projection organization,M1,1,0
+1,-2.3,GO:0034204,lipid translocation,M1,1,0
+1,-2.9,GO:0008016,regulation of heart contraction,M1,1,0
+1,-3.4,GO:0044270,cellular nitrogen compound catabolic process,M1,1,0
+1,-2.2,GO:0006457,protein folding,M1,1,0
+1,-2.1,GO:1902017,regulation of cilium assembly,M1,1,0
+1,-4,GO:0006351,DNA-templated transcription,M1,1,0
+1,-3.8,GO:0007167,enzyme-linked receptor protein signaling pathway,M1,1,0
+1,-3,GO:0098771,inorganic ion homeostasis,M1,1,0
+1,-2.4,GO:0010875,positive regulation of cholesterol efflux,M1,1,0
+1,-2,GO:0043467,regulation of generation of precursor metabolites and energy,M1,1,0
+1,-3.6,GO:0098870,action potential propagation,M1,1,0
+1,-2,GO:0009166,nucleotide catabolic process,M1,1,0
+1,-3.5,GO:0034655,nucleobase-containing compound catabolic process,M1,1,0
+1,-2,GO:0006414,translational elongation,M1,1,0
+1,-2.3,GO:0007034,vacuolar transport,M1,1,0
+1,-5.2,GO:0006338,chromatin remodeling,M1,1,0
+1,-2.4,GO:0045937,positive regulation of phosphate metabolic process,M1,1,0
+1,-2.1,GO:0060008,Sertoli cell differentiation,M1,1,0
+1,-6.6,GO:0043604,amide biosynthetic process,M1,1,0
+1,-2.1,GO:0006334,nucleosome assembly,M1,1,0
+1,-2.4,GO:0032511,late endosome to vacuole transport via multivesicular body sorting pathway,M1,1,0
+1,-3.3,GO:0030902,hindbrain development,M1,1,0
+1,-2.3,GO:0046928,regulation of neurotransmitter secretion,M1,1,0
+1,-2.6,GO:0001508,action potential,M1,1,0
+1,-3.8,GO:0120035,regulation of plasma membrane bounded cell projection organization,M1,1,0
+1,-6.8,GO:0030001,metal ion transport,M1,1,0
+1,-6.8,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.2,GO:0035239,tube morphogenesis,M1,1,0
+1,-2.2,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-2.7,GO:0006085,acetyl-CoA biosynthetic process,M1,1,0
+1,-2.8,GO:0051223,regulation of protein transport,M1,1,0
+1,-2.5,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-2.4,GO:0050808,synapse organization,M1,1,0
+1,-3.3,GO:0006163,purine nucleotide metabolic process,M1,1,0
+1,-2.1,GO:0045859,regulation of protein kinase activity,M1,1,0
+1,-4.1,GO:0000226,microtubule cytoskeleton organization,M1,1,0
+1,-4.1,GO:1903530,regulation of secretion by cell,M1,1,0
+1,-4.6,GO:0010876,lipid localization,M1,1,0
+1,-6.8,GO:0048284,organelle fusion,M1,1,0
+1,-2.3,GO:0009261,ribonucleotide catabolic process,M1,1,0
+1,-2.2,GO:0006473,protein acetylation,M1,1,0
+1,-2.6,GO:0001558,regulation of cell growth,M1,1,0
+1,-3.3,GO:2000369,regulation of clathrin-dependent endocytosis,M1,1,0
+1,-3.7,GO:0034030,ribonucleoside bisphosphate biosynthetic process,M1,1,0
+1,-3.2,GO:0046467,membrane lipid biosynthetic process,M1,1,0
+1,-2.4,GO:0021535,cell migration in hindbrain,M1,1,0
+1,-2.1,GO:0046501,protoporphyrinogen IX metabolic process,M1,1,0
+1,-4,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-3.4,GO:0030031,cell projection assembly,M1,1,0
+1,-3.7,GO:0006518,peptide metabolic process,M1,1,0
+1,-2.8,GO:0055080,monoatomic cation homeostasis,M1,1,0
+1,-3.2,GO:0034243,regulation of transcription elongation by RNA polymerase II,M1,1,0
+1,-2,GO:0007224,smoothened signaling pathway,M1,1,0
+1,-3.8,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.7,GO:0048842,positive regulation of axon extension involved in axon guidance,M1,1,0
+1,-3.2,GO:0006909,phagocytosis,M1,1,0
+1,-6.9,GO:0016071,mRNA metabolic process,M1,1,0
+1,-3.1,GO:0060765,regulation of androgen receptor signaling pathway,M1,1,0
+1,-3.6,GO:0007032,endosome organization,M1,1,0
+1,-2.1,GO:0010644,cell communication by electrical coupling,M1,1,0
+1,-3.4,GO:0046700,heterocycle catabolic process,M1,1,0
+1,-5.6,GO:0048545,response to steroid hormone,M1,1,0
+1,-2.4,GO:0097435,supramolecular fiber organization,M1,1,0
+1,-2.1,GO:0034471,ncRNA 5'-end processing,M1,1,0
+1,-6,GO:0009725,response to hormone,M1,1,0
+1,-2.6,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-2.4,GO:0034762,regulation of transmembrane transport,M1,1,0
+1,-2.9,GO:0072657,protein localization to membrane,M1,1,0
+1,-2.1,GO:0008333,endosome to lysosome transport,M1,1,0
+1,-2.1,GO:0050901,leukocyte tethering or rolling,M1,1,0
+1,-2.3,GO:0032259,methylation,M1,1,0
+1,-2.4,GO:0055001,muscle cell development,M1,1,0
+1,-4.2,GO:0009117,nucleotide metabolic process,M1,1,0
+1,-3,GO:0035383,thioester metabolic process,M1,1,0
+1,-3.3,GO:0034504,protein localization to nucleus,M1,1,0
+1,-2.6,GO:0015918,sterol transport,M1,1,0
+1,-2.3,GO:0140694,non-membrane-bounded organelle assembly,M1,1,0
+1,-5.3,GO:0080135,regulation of cellular response to stress,M1,1,0
+1,-2.5,GO:0048541,Peyer's patch development,M1,1,0
+1,-2.4,GO:0031100,animal organ regeneration,M1,1,0
+1,-2,GO:0045646,regulation of erythrocyte differentiation,M1,1,0
+1,-3.9,GO:0030036,actin cytoskeleton organization,M1,1,0
+1,-2.8,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",M1,1,0
+1,-2.2,GO:0050714,positive regulation of protein secretion,M1,1,0
+1,-2.5,GO:0015734,taurine transport,M1,1,0
+1,-2.5,GO:0045332,phospholipid translocation,M1,1,0
+1,-3.1,GO:0009755,hormone-mediated signaling pathway,M1,1,0
+1,-2.5,GO:0060261,positive regulation of transcription initiation by RNA polymerase II,M1,1,0
+1,-6,GO:0006812,monoatomic cation transport,M1,1,0
+1,-3.2,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-2.2,GO:1900746,regulation of vascular endothelial growth factor signaling pathway,M1,1,0
+1,-2.1,GO:0061077,chaperone-mediated protein folding,M1,1,0
+1,-2.5,GO:0042918,alkanesulfonate transport,M1,1,0
+1,-3,GO:0051052,regulation of DNA metabolic process,M1,1,0
+1,-2.1,GO:0021587,cerebellum morphogenesis,M1,1,0
+1,-2.3,GO:0098876,vesicle-mediated transport to the plasma membrane,M1,1,0
+1,-2.4,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-3.3,GO:0140053,mitochondrial gene expression,M1,1,0
+1,-4.9,GO:0043401,steroid hormone mediated signaling pathway,M1,1,0
+1,-2.2,GO:0051588,regulation of neurotransmitter transport,M1,1,0
+1,-2.2,GO:0034250,positive regulation of amide metabolic process,M1,1,0
+1,-3.1,GO:0030148,sphingolipid biosynthetic process,M1,1,0
+1,-3.2,GO:0000165,MAPK cascade,M1,1,0
+1,-2.3,GO:0009187,cyclic nucleotide metabolic process,M1,1,0
+1,-2.8,GO:0048589,developmental growth,M1,1,0
+1,-2.5,GO:0006650,glycerophospholipid metabolic process,M1,1,0
+1,-2.1,GO:0007015,actin filament organization,M1,1,0
+1,-5.1,GO:0016050,vesicle organization,M1,1,0
+1,-2.3,GO:0070534,protein K63-linked ubiquitination,M1,1,0
+1,-2.1,GO:0006222,UMP biosynthetic process,M1,1,0
+1,-2.5,GO:1901653,cellular response to peptide,M1,1,0
+1,-2.1,GO:0097581,lamellipodium organization,M1,1,0
+1,-2.9,GO:0003013,circulatory system process,M1,1,0
+1,-2.8,GO:0006886,intracellular protein transport,M1,1,0
+1,-3,GO:0051899,membrane depolarization,M1,1,0
+1,-2.4,GO:1901617,organic hydroxy compound biosynthetic process,M1,1,0
+1,-4,GO:0015748,organophosphate ester transport,M1,1,0
+1,-2.8,GO:0030003,intracellular monoatomic cation homeostasis,M1,1,0
+1,-2.4,GO:0021680,cerebellar Purkinje cell layer development,M1,1,0
+1,-2.4,GO:0042327,positive regulation of phosphorylation,M1,1,0
+1,-2,GO:0046488,phosphatidylinositol metabolic process,M1,1,0
+1,-2.1,GO:0010720,positive regulation of cell development,M1,1,0
+1,-3.9,GO:2001233,regulation of apoptotic signaling pathway,M1,1,0
+1,-2.3,GO:0015693,magnesium ion transport,M1,1,0
+1,-3,GO:0071805,potassium ion transmembrane transport,M1,1,0
+1,-2.1,GO:1902547,regulation of cellular response to vascular endothelial growth factor stimulus,M1,1,0
+1,-2.4,GO:2000756,regulation of peptidyl-lysine acetylation,M1,1,0
+1,-2.2,GO:0015936,coenzyme A metabolic process,M1,1,0
+1,-3.1,GO:0060271,cilium assembly,M1,1,0
+1,-3.2,GO:0045794,negative regulation of cell volume,M1,1,0
+1,-2.9,GO:0017157,regulation of exocytosis,M1,1,0
+1,-3.1,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-2.1,GO:1901655,cellular response to ketone,M1,1,0
+1,-3,GO:0034032,purine nucleoside bisphosphate metabolic process,M1,1,0
+1,-2.4,GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-2,GO:0051346,negative regulation of hydrolase activity,M1,1,0
+1,-2.1,GO:0062012,regulation of small molecule metabolic process,M1,1,0
+1,-2.5,GO:1902115,regulation of organelle assembly,M1,1,0
+1,-2.2,GO:0062125,regulation of mitochondrial gene expression,M1,1,0
+1,-2.7,GO:0045598,regulation of fat cell differentiation,M1,1,0
+1,-2,GO:0040017,positive regulation of locomotion,M1,1,0
+1,-3.8,GO:0006397,mRNA processing,M1,1,0
+1,-2.5,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-5.8,GO:0016310,phosphorylation,M1,1,0
+1,-2.1,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-2,GO:0043414,macromolecule methylation,M1,1,0
+1,-3.8,GO:0021695,cerebellar cortex development,M1,1,0
+1,-3.1,GO:0061025,membrane fusion,M1,1,0
+1,-2.5,GO:0030100,regulation of endocytosis,M1,1,0
+1,-2.6,GO:0006873,intracellular monoatomic ion homeostasis,M1,1,0
+1,-2.3,GO:0052652,cyclic purine nucleotide metabolic process,M1,1,0
+1,-2.9,GO:0034248,regulation of amide metabolic process,M1,1,0
+1,-3.2,GO:0033143,regulation of intracellular steroid hormone receptor signaling pathway,M1,1,0
+1,-2.2,GO:0021692,cerebellar Purkinje cell layer morphogenesis,M1,1,0
+1,-3.2,GO:2001242,regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-3.1,GO:0065004,protein-DNA complex assembly,M1,1,0
+1,-2.9,GO:0034101,erythrocyte homeostasis,M1,1,0
+1,-4.5,GO:0030518,intracellular steroid hormone receptor signaling pathway,M1,1,0
+1,-3.9,GO:0043434,response to peptide hormone,M1,1,0
+1,-2.3,GO:0055088,lipid homeostasis,M1,1,0
+1,-3.5,GO:0009150,purine ribonucleotide metabolic process,M1,1,0
+1,-2.3,GO:0040008,regulation of growth,M1,1,0
+1,-2.2,GO:0002521,leukocyte differentiation,M1,1,0
+1,-2.3,GO:0006084,acetyl-CoA metabolic process,M1,1,0
+1,-3.1,GO:0051384,response to glucocorticoid,M1,1,0
+1,-2.3,GO:0032239,regulation of nucleobase-containing compound transport,M1,1,0
+1,-6.5,GO:0034660,ncRNA metabolic process,M1,1,0
+1,-2.3,GO:0098916,anterograde trans-synaptic signaling,M1,1,0
+1,-2.1,GO:0046685,response to arsenic-containing substance,M1,1,0
+1,-2.7,GO:0021533,cell differentiation in hindbrain,M1,1,0
+1,-2.4,GO:1901880,negative regulation of protein depolymerization,M1,1,0
+1,-3.1,GO:0044782,cilium organization,M1,1,0
+1,-2.4,GO:0006198,cAMP catabolic process,M1,1,0
+1,-2.5,GO:0043549,regulation of kinase activity,M1,1,0
+1,-2.7,GO:0050769,positive regulation of neurogenesis,M1,1,0
+1,-3.9,GO:0000209,protein polyubiquitination,M1,1,0
+1,-2.7,GO:0046486,glycerolipid metabolic process,M1,1,0
+1,-4.5,GO:0007420,brain development,M1,1,0
+1,-3.6,GO:0019227,neuronal action potential propagation,M1,1,0
+1,-2,GO:0034612,response to tumor necrosis factor,M1,1,0
+1,-2.7,GO:0021953,central nervous system neuron differentiation,M1,1,0
+1,-3.9,GO:0043124,negative regulation of canonical NF-kappaB signal transduction,M1,1,0
+1,-3.6,GO:0032984,protein-containing complex disassembly,M1,1,0
+1,-2.2,GO:0009991,response to extracellular stimulus,M1,1,0
+1,-2,GO:0034728,nucleosome organization,M1,1,0
+1,-4.5,GO:0044272,sulfur compound biosynthetic process,M1,1,0
+1,-3.9,GO:0099003,vesicle-mediated transport in synapse,M1,1,0
+1,-3,GO:0006814,sodium ion transport,M1,1,0
+1,-2.4,GO:0099537,trans-synaptic signaling,M1,1,0
+1,-2.9,GO:0032365,intracellular lipid transport,M1,1,0
+1,-3.9,GO:0016197,endosomal transport,M1,1,0
+1,-2,GO:0045648,positive regulation of erythrocyte differentiation,M1,1,0
+1,-3.2,GO:0048871,multicellular organismal-level homeostasis,M1,1,0
+1,-2.2,GO:0071900,regulation of protein serine/threonine kinase activity,M1,1,0
+1,-2.1,GO:1901699,cellular response to nitrogen compound,M1,1,0
+1,-2.2,GO:0021954,central nervous system neuron development,M1,1,0
+1,-2.1,GO:0009260,ribonucleotide biosynthetic process,M1,1,0
+1,-2.3,GO:0048738,cardiac muscle tissue development,M1,1,0
+1,-4.6,GO:0071396,cellular response to lipid,M1,1,0
+1,-2.2,GO:1905150,regulation of voltage-gated sodium channel activity,M1,1,0
+1,-5,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-2.7,GO:0001667,ameboidal-type cell migration,M1,1,0
+1,-2.9,GO:0071616,acyl-CoA biosynthetic process,M1,1,0
+1,-2.3,GO:1901983,regulation of protein acetylation,M1,1,0
+1,-2.4,GO:0198738,cell-cell signaling by wnt,M1,1,0
+1,-2.3,GO:0021952,central nervous system projection neuron axonogenesis,M1,1,0
+1,-6.1,GO:0071383,cellular response to steroid hormone stimulus,M1,1,0
+1,-2.1,GO:0055092,sterol homeostasis,M1,1,0
+1,-2.3,GO:0060828,regulation of canonical Wnt signaling pathway,M1,1,0
+1,-3,GO:0033875,ribonucleoside bisphosphate metabolic process,M1,1,0
+1,-3,GO:0000375,"RNA splicing, via transesterification reactions",M1,1,0
+1,-2.5,GO:0070201,regulation of establishment of protein localization,M1,1,0
+1,-2.3,GO:0090066,regulation of anatomical structure size,M1,1,0
+1,-2.3,GO:0051301,cell division,M1,1,0
+1,-2.7,GO:0032006,regulation of TOR signaling,M1,1,0
+1,-2.2,GO:0045600,positive regulation of fat cell differentiation,M1,1,0
+1,-3.3,GO:0008610,lipid biosynthetic process,M1,1,0
+1,-2.4,GO:0006665,sphingolipid metabolic process,M1,1,0
+1,-2.2,GO:0042632,cholesterol homeostasis,M1,1,0
+1,-3,GO:0033865,nucleoside bisphosphate metabolic process,M1,1,0
+1,-2.8,GO:0086001,cardiac muscle cell action potential,M1,1,0
+1,-2.9,GO:0002318,myeloid progenitor cell differentiation,M1,1,0
+1,-3,GO:0051668,localization within membrane,M1,1,0
+1,-3.2,GO:0071902,positive regulation of protein serine/threonine kinase activity,M1,1,0
+1,-2.2,GO:0010885,regulation of cholesterol storage,M1,1,0
+1,-2.2,GO:0034067,protein localization to Golgi apparatus,M1,1,0
+1,-2.4,GO:0032535,regulation of cellular component size,M1,1,0
+1,-2.3,GO:0032386,regulation of intracellular transport,M1,1,0
+1,-6,GO:0010256,endomembrane system organization,M1,1,0
+1,-2.6,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-2.3,GO:0043543,protein acylation,M1,1,0
+1,-3.3,GO:0006836,neurotransmitter transport,M1,1,0
+1,-2.3,GO:0048791,calcium ion-regulated exocytosis of neurotransmitter,M1,1,0
+1,-3,GO:0019439,aromatic compound catabolic process,M1,1,0
+1,-3.6,GO:0006813,potassium ion transport,M1,1,0
+1,-3.9,GO:0051047,positive regulation of secretion,M1,1,0
+1,-2.2,GO:0016042,lipid catabolic process,M1,1,0
+1,-3.7,GO:0007163,establishment or maintenance of cell polarity,M1,1,0
+1,-3.8,GO:0007169,transmembrane receptor protein tyrosine kinase signaling pathway,M1,1,0
+1,-2.7,GO:0030183,B cell differentiation,M1,1,0
+1,-3.8,GO:0015914,phospholipid transport,M1,1,0
+1,-2.3,GO:0007029,endoplasmic reticulum organization,M1,1,0
+1,-2.2,GO:0006401,RNA catabolic process,M1,1,0
+1,-3.4,GO:0006282,regulation of DNA repair,M1,1,0
+1,-2.9,GO:0006643,membrane lipid metabolic process,M1,1,0
+1,-3.9,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-3.7,GO:0033866,nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-3,GO:0043276,anoikis,M1,1,0
+1,-2.9,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-2.1,GO:0140352,export from cell,M1,1,0
+1,-3.7,GO:0006790,sulfur compound metabolic process,M1,1,0
+1,-2.5,GO:1903131,mononuclear cell differentiation,M1,1,0
+1,-2.2,GO:0060768,regulation of epithelial cell proliferation involved in prostate gland development,M1,1,0
+1,-2.7,GO:0030218,erythrocyte differentiation,M1,1,0
+1,-4.2,GO:0006869,lipid transport,M1,1,0
+1,-2.6,GO:0030032,lamellipodium assembly,M1,1,0
+1,-2.2,GO:0010631,epithelial cell migration,M1,1,0
+1,-2,GO:0046173,polyol biosynthetic process,M1,1,0
+1,-2.4,GO:0032543,mitochondrial translation,M1,1,0
+1,-4.1,GO:0032774,RNA biosynthetic process,M1,1,0
+1,-2.4,GO:0086012,membrane depolarization during cardiac muscle cell action potential,M1,1,0
+1,-2.3,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-2.7,GO:0045787,positive regulation of cell cycle,M1,1,0
+1,-3,GO:0035265,organ growth,M1,1,0
+1,-2.4,GO:0009267,cellular response to starvation,M1,1,0
+1,-3.6,GO:0030010,establishment of cell polarity,M1,1,0
+1,-6.6,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-3.1,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-2.3,GO:0031123,RNA 3'-end processing,M1,1,0
+1,-4.1,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-2.5,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-2.3,GO:0048588,developmental cell growth,M1,1,0
+1,-2.4,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.1,GO:0034058,endosomal vesicle fusion,M1,1,0
+1,-2.6,GO:0021696,cerebellar cortex morphogenesis,M1,1,0
+1,-2.7,GO:0006259,DNA metabolic process,M1,1,0
+1,-3.7,GO:0090174,organelle membrane fusion,M1,1,0
+1,-2.2,GO:0030301,cholesterol transport,M1,1,0
+1,-2.2,GO:0060537,muscle tissue development,M1,1,0
+1,-2.8,GO:0021537,telencephalon development,M1,1,0
+1,-2.4,GO:0010562,positive regulation of phosphorus metabolic process,M1,1,0
+1,-2.3,GO:0071345,cellular response to cytokine stimulus,M1,1,0
+1,-2,GO:2000765,regulation of cytoplasmic translation,M1,1,0
+1,-2.2,GO:0060397,growth hormone receptor signaling pathway via JAK-STAT,M1,1,0
+1,-2.6,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.3,GO:0031507,heterochromatin formation,M1,1,0
+1,-6.3,GO:0098655,monoatomic cation transmembrane transport,M1,1,0
+1,-2,GO:0042789,mRNA transcription by RNA polymerase II,M1,1,0
+1,-2.5,GO:0033144,negative regulation of intracellular steroid hormone receptor signaling pathway,M1,1,0
+1,-3.3,GO:0042391,regulation of membrane potential,M1,1,0
+1,-4.2,GO:0019693,ribose phosphate metabolic process,M1,1,0
+1,-2,GO:0044000,movement in host,M1,1,0
+1,-3.7,GO:0019725,cellular homeostasis,M1,1,0
+1,-2.5,GO:0001779,natural killer cell differentiation,M1,1,0
+1,-3.7,GO:0099504,synaptic vesicle cycle,M1,1,0
+1,-3.6,GO:0120031,plasma membrane bounded cell projection assembly,M1,1,0
+1,-4,GO:0008053,mitochondrial fusion,M1,1,0
+1,-4.8,GO:0006468,protein phosphorylation,M1,1,0
+1,-3.6,GO:1901652,response to peptide,M1,1,0
+1,-2.4,GO:0021932,hindbrain radial glia guided cell migration,M1,1,0
+1,-3,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2.1,GO:0010959,regulation of metal ion transport,M1,1,0
+1,-3.8,GO:0022037,metencephalon development,M1,1,0
+1,-2.6,GO:0006109,regulation of carbohydrate metabolic process,M1,1,0
+1,-2.4,GO:1903830,magnesium ion transmembrane transport,M1,1,0
+1,-7.9,GO:0061024,membrane organization,M1,1,0
+1,-2.8,GO:0000398,"mRNA splicing, via spliceosome",M1,1,0
+1,-2.3,GO:0043086,negative regulation of catalytic activity,M1,1,0
+1,-2.8,GO:0005975,carbohydrate metabolic process,M1,1,0
+1,-2.6,GO:0031667,response to nutrient levels,M1,1,0
+1,-2.4,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-3.1,GO:1990778,protein localization to cell periphery,M1,1,0
+1,-3.3,GO:0008361,regulation of cell size,M1,1,0
+1,-2.7,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-3.5,GO:0034470,ncRNA processing,M1,1,0
+1,-5.7,GO:0071407,cellular response to organic cyclic compound,M1,1,0
+1,-2.6,GO:0038084,vascular endothelial growth factor signaling pathway,M1,1,0
+1,-2.9,GO:0031346,positive regulation of cell projection organization,M1,1,0
+1,-5.9,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-2.8,GO:0009314,response to radiation,M1,1,0
+1,-3.2,GO:0022613,ribonucleoprotein complex biogenesis,M1,1,0
+1,-2.5,GO:1903522,regulation of blood circulation,M1,1,0
+1,-2.3,GO:0051640,organelle localization,M1,1,0
+1,-2.6,GO:0032784,regulation of DNA-templated transcription elongation,M1,1,0
+1,-2.4,GO:0016055,Wnt signaling pathway,M1,1,0
+1,-3.2,GO:0006101,citrate metabolic process,M1,1,0
+1,-2.5,GO:0021697,cerebellar cortex formation,M1,1,0
+1,-3.1,GO:0016079,synaptic vesicle exocytosis,M1,1,0
+1,-2.8,GO:0042698,ovulation cycle,M1,1,0
+1,-2.4,GO:0001945,lymph vessel development,M1,1,0
+1,-2.1,GO:0015824,proline transport,M1,1,0
+1,-3.8,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-2.7,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-2.5,GO:0032825,positive regulation of natural killer cell differentiation,M1,1,0
+1,-2.5,GO:2000480,negative regulation of cAMP-dependent protein kinase activity,M1,1,0
+1,-3.6,GO:0006099,tricarboxylic acid cycle,M1,1,0
+1,-2.7,GO:0044057,regulation of system process,M1,1,0
+1,-2.1,GO:1903426,regulation of reactive oxygen species biosynthetic process,M1,1,0
+1,-2.4,GO:0036148,phosphatidylglycerol acyl-chain remodeling,M1,1,0
+1,-2.2,GO:0072595,maintenance of protein localization in organelle,M1,1,0
+1,-2.6,GO:1901293,nucleoside phosphate biosynthetic process,M1,1,0
+1,-2.1,GO:0048872,homeostasis of number of cells,M1,1,0
+1,-2.5,GO:0072659,protein localization to plasma membrane,M1,1,0
+1,-3.3,GO:0050770,regulation of axonogenesis,M1,1,0
+1,-2.3,GO:2000144,positive regulation of DNA-templated transcription initiation,M1,1,0
+1,-7.5,GO:0098657,import into cell,M1,1,0
+1,-2.6,GO:0086064,cell communication by electrical coupling involved in cardiac conduction,M1,1,0
+1,-5.1,GO:0060322,head development,M1,1,0
+1,-2.9,GO:0035384,thioester biosynthetic process,M1,1,0
+1,-2.1,GO:0007611,learning or memory,M1,1,0
+1,-2.3,GO:0043406,positive regulation of MAP kinase activity,M1,1,0
+1,-3.3,GO:0016567,protein ubiquitination,M1,1,0
+1,-2.7,GO:0051457,maintenance of protein location in nucleus,M1,1,0
+1,-2.6,GO:0030163,protein catabolic process,M1,1,0
+1,-2,GO:0046777,protein autophosphorylation,M1,1,0
+1,-2.1,GO:0010887,negative regulation of cholesterol storage,M1,1,0
+1,-4.8,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.2,GO:0043542,endothelial cell migration,M1,1,0
