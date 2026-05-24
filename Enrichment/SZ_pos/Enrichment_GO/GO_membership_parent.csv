@@ -1,0 +1,18 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-32.022558478980386,GO:0008152,metabolic process,M1,1,GO:0002181 cytoplasmic translation
+1,-16.05978324872725,GO:0009987,cellular process,M1,1,GO:0022613 ribonucleoprotein complex biogenesis
+1,-11.262654598185986,GO:0051179,localization,M1,1,GO:0070201 regulation of establishment of protein localization
+1,-10.27024330740289,GO:0065007,biological regulation,M1,1,GO:0031647 regulation of protein stability
+1,-9.64616965018041,GO:0048519,negative regulation of biological process,M1,1,GO:0051129 negative regulation of cellular component organization
+1,-9.096972451387739,GO:0048518,positive regulation of biological process,M1,1,GO:0031401 positive regulation of protein modification process
+1,-8.423623531895949,GO:0050789,regulation of biological process,M1,1,GO:0120035 regulation of plasma membrane bounded cell projection organization
+1,-7.8599147113051195,GO:0032502,developmental process,M1,1,GO:0010975 regulation of neuron projection development
+1,-6.86304586137224,GO:0050896,response to stimulus,M1,1,GO:0007264 small GTPase mediated signal transduction
+1,-5.656887009225767,GO:0016032,viral process,M1,1,GO:0048524 positive regulation of viral process
+1,-5.65031649983199,GO:0042592,homeostatic process,M1,1,GO:0002262 myeloid cell homeostasis
+1,-4.931495241111156,GO:0002376,immune system process,M1,1,GO:1902107 positive regulation of leukocyte differentiation
+1,-4.8741474011792505,GO:0040011,locomotion,M1,1,GO:2000147 positive regulation of cell motility
+1,-4.644664927782443,GO:0032501,multicellular organismal process,M1,1,GO:0050865 regulation of cell activation
+1,-3.1566820250362695,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0044000 movement in host
+1,-2.3313821789735867,GO:0098754,detoxification,M1,1,GO:0098869 cellular oxidant detoxification
+1,-2.179389390398622,GO:0040007,growth,M1,1,GO:1903859 regulation of dendrite extension
