@@ -1,0 +1,12 @@
+Network,Annotation
+MyList,GO:0099536|synaptic signaling|-13.5;GO:0099537|trans-synaptic signaling|-12.0;GO:0098916|anterograde trans-synaptic signaling|-11.7
+MyList_MCODE_ALL,GO:0098662|inorganic cation transmembrane transport|-11.5;GO:0030001|metal ion transport|-11.4;GO:0098655|monoatomic cation transmembrane transport|-11.3
+MyList_SUB1_MCODE_1,GO:0070588|calcium ion transmembrane transport|-8.6;GO:0006816|calcium ion transport|-8.1;GO:0044057|regulation of system process|-7.5
+MyList_SUB1_MCODE_2,GO:0051640|organelle localization|-9.4;GO:0099643|signal release from synapse|-8.8;GO:0007269|neurotransmitter secretion|-8.8
+MyList_SUB1_MCODE_3,GO:0071805|potassium ion transmembrane transport|-17.2;GO:0006813|potassium ion transport|-17.0;GO:0098662|inorganic cation transmembrane transport|-12.5
+MyList_SUB1_MCODE_4,GO:0007098|centrosome cycle|-5.6;GO:0031023|microtubule organizing center organization|-5.5;GO:0000226|microtubule cytoskeleton organization|-3.3
+MyList_SUB1_MCODE_5,GO:0007204|positive regulation of cytosolic calcium ion concentration|-5.3;GO:0007188|adenylate cyclase-modulating G protein-coupled receptor signaling pathway|-4.8
+MyList_SUB1_MCODE_6,"GO:0071459|protein localization to chromosome, centromeric region|-13.3;GO:0071168|protein localization to chromatin|-12.7;GO:0006338|chromatin remodeling|-11.7"
+MyList_SUB1_MCODE_7,GO:0016310|phosphorylation|-5.0;GO:0000165|MAPK cascade|-5.0;GO:0006468|protein phosphorylation|-3.9
+MyList_SUB1_MCODE_8,GO:0030198|extracellular matrix organization|-5.5;GO:0043062|extracellular structure organization|-5.5;GO:0045229|external encapsulating structure organization|-5.5
+MyList_SUB1_MCODE_9,GO:0046854|phosphatidylinositol phosphate biosynthetic process|-10.7;GO:0006661|phosphatidylinositol biosynthetic process|-9.6;GO:0046488|phosphatidylinositol metabolic process|-9.2

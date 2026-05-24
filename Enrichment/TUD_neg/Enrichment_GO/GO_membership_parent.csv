@@ -1,0 +1,17 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-10.812439632922578,GO:0050789,regulation of biological process,M1,1,GO:0099536 synaptic signaling
+1,-8.687252472381385,GO:0051179,localization,M1,1,GO:0071805 potassium ion transmembrane transport
+1,-6.668151770627154,GO:0032502,developmental process,M1,1,GO:0061001 regulation of dendritic spine morphogenesis
+1,-6.4374465549026345,GO:0032501,multicellular organismal process,M1,1,GO:0044057 regulation of system process
+1,-6.076640341854538,GO:0009987,cellular process,M1,1,GO:0050808 synapse organization
+1,-5.835662596616232,GO:0065007,biological regulation,M1,1,GO:0050803 regulation of synapse structure or activity
+1,-5.041833696432635,GO:0048518,positive regulation of biological process,M1,1,GO:1901079 positive regulation of relaxation of muscle
+1,-4.520377420569433,GO:0042592,homeostatic process,M1,1,GO:0051480 regulation of cytosolic calcium ion concentration
+1,-4.445152283796639,GO:0008152,metabolic process,M1,1,GO:0032964 collagen biosynthetic process
+1,-4.226165529381816,GO:0050896,response to stimulus,M1,1,GO:1902074 response to salt
+1,-3.5557749137576495,GO:0048519,negative regulation of biological process,M1,1,GO:0031345 negative regulation of cell projection organization
+1,-3.426935826317122,GO:0040011,locomotion,M1,1,GO:0050919 negative chemotaxis
+1,-3.1875547469977095,GO:0040007,growth,M1,1,GO:0048589 developmental growth
+1,-3.1543028165676383,GO:0002376,immune system process,M1,1,GO:0045653 negative regulation of megakaryocyte differentiation
+1,-2.4555480741496054,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0044788 modulation by host of viral process
+1,-2.1000236147154174,GO:0016032,viral process,M1,1,GO:0044794 positive regulation by host of viral process
