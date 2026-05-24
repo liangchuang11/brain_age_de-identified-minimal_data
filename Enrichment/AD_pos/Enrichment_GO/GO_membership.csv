@@ -1,0 +1,186 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-4.2,GO:0050708,regulation of protein secretion,M1,1,0
+1,-6.1,GO:0140352,export from cell,M1,1,0
+1,-2.4,GO:0048566,embryonic digestive tract development,M1,1,0
+1,-4.7,GO:0099537,trans-synaptic signaling,M1,1,0
+1,-2.1,GO:0003012,muscle system process,M1,1,0
+1,-4.1,GO:0043604,amide biosynthetic process,M1,1,0
+1,-3.7,GO:0050796,regulation of insulin secretion,M1,1,0
+1,-2.4,GO:0019229,regulation of vasoconstriction,M1,1,0
+1,-4.8,GO:0007005,mitochondrion organization,M1,1,0
+1,-3.1,GO:0007006,mitochondrial membrane organization,M1,1,0
+1,-2.2,GO:0043200,response to amino acid,M1,1,0
+1,-5,GO:0099536,synaptic signaling,M1,1,0
+1,-2.2,GO:0006813,potassium ion transport,M1,1,0
+1,-2.7,GO:0023061,signal release,M1,1,0
+1,-2.2,GO:0016054,organic acid catabolic process,M1,1,0
+1,-4.2,GO:0070201,regulation of establishment of protein localization,M1,1,0
+1,-4,GO:0006412,translation,M1,1,0
+1,-2.4,GO:0022409,positive regulation of cell-cell adhesion,M1,1,0
+1,-2.3,GO:0032412,regulation of monoatomic ion transmembrane transporter activity,M1,1,0
+1,-2.1,GO:0098657,import into cell,M1,1,0
+1,-3.8,GO:0046883,regulation of hormone secretion,M1,1,0
+1,-2.3,GO:0009060,aerobic respiration,M1,1,0
+1,-3.1,GO:0090087,regulation of peptide transport,M1,1,0
+1,-3.2,GO:0010817,regulation of hormone levels,M1,1,0
+1,-2.6,GO:0008015,blood circulation,M1,1,0
+1,-2.6,GO:0043303,mast cell degranulation,M1,1,0
+1,-3.4,GO:0014059,regulation of dopamine secretion,M1,1,0
+1,-2.5,GO:0006626,protein targeting to mitochondrion,M1,1,0
+1,-2.6,GO:0009611,response to wounding,M1,1,0
+1,-2.6,GO:0002279,mast cell activation involved in immune response,M1,1,0
+1,-6.2,GO:0051046,regulation of secretion,M1,1,0
+1,-3,GO:0001501,skeletal system development,M1,1,0
+1,-2.3,GO:0071805,potassium ion transmembrane transport,M1,1,0
+1,-3.6,GO:0002448,mast cell mediated immunity,M1,1,0
+1,-2.4,GO:0051494,negative regulation of cytoskeleton organization,M1,1,0
+1,-6.4,GO:0051668,localization within membrane,M1,1,0
+1,-2.1,GO:0048565,digestive tract development,M1,1,0
+1,-3.3,GO:0001956,positive regulation of neurotransmitter secretion,M1,1,0
+1,-2.2,GO:1903305,regulation of regulated secretory pathway,M1,1,0
+1,-2,GO:0030308,negative regulation of cell growth,M1,1,0
+1,-4.1,GO:0090150,establishment of protein localization to membrane,M1,1,0
+1,-2.3,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-5.5,GO:0006887,exocytosis,M1,1,0
+1,-3.1,GO:0072659,protein localization to plasma membrane,M1,1,0
+1,-2.3,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-2,GO:0003013,circulatory system process,M1,1,0
+1,-5.3,GO:0045039,protein insertion into mitochondrial inner membrane,M1,1,0
+1,-2.1,GO:0032414,positive regulation of ion transmembrane transporter activity,M1,1,0
+1,-2.4,GO:0030193,regulation of blood coagulation,M1,1,0
+1,-2.4,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.1,GO:0019395,fatty acid oxidation,M1,1,0
+1,-3.2,GO:0045333,cellular respiration,M1,1,0
+1,-2.3,GO:0055002,striated muscle cell development,M1,1,0
+1,-3,GO:0046928,regulation of neurotransmitter secretion,M1,1,0
+1,-2.9,GO:0007423,sensory organ development,M1,1,0
+1,-2.2,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2.6,GO:0031333,negative regulation of protein-containing complex assembly,M1,1,0
+1,-3.4,GO:0002444,myeloid leukocyte mediated immunity,M1,1,0
+1,-2.1,GO:0090049,regulation of cell migration involved in sprouting angiogenesis,M1,1,0
+1,-2.2,GO:0035592,establishment of protein localization to extracellular region,M1,1,0
+1,-6.9,GO:1903530,regulation of secretion by cell,M1,1,0
+1,-2.4,GO:0007018,microtubule-based movement,M1,1,0
+1,-2.5,GO:0050714,positive regulation of protein secretion,M1,1,0
+1,-5.6,GO:0032940,secretion by cell,M1,1,0
+1,-2.4,GO:1902075,cellular response to salt,M1,1,0
+1,-3.8,GO:0050433,regulation of catecholamine secretion,M1,1,0
+1,-3.3,GO:0001508,action potential,M1,1,0
+1,-2.3,GO:0045321,leukocyte activation,M1,1,0
+1,-3.1,GO:0007193,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,M1,1,0
+1,-2.5,GO:0150117,positive regulation of cell-substrate junction organization,M1,1,0
+1,-2.2,GO:0032272,negative regulation of protein polymerization,M1,1,0
+1,-2.7,GO:0009636,response to toxic substance,M1,1,0
+1,-2.4,GO:0043270,positive regulation of monoatomic ion transport,M1,1,0
+1,-2.5,GO:0043266,regulation of potassium ion transport,M1,1,0
+1,-2,GO:1905144,response to acetylcholine,M1,1,0
+1,-3.2,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-3.2,GO:0031345,negative regulation of cell projection organization,M1,1,0
+1,-2.4,GO:0071398,cellular response to fatty acid,M1,1,0
+1,-2.3,GO:1900046,regulation of hemostasis,M1,1,0
+1,-2.3,GO:0050818,regulation of coagulation,M1,1,0
+1,-2.1,GO:0070585,protein localization to mitochondrion,M1,1,0
+1,-3.3,GO:0017158,regulation of calcium ion-dependent exocytosis,M1,1,0
+1,-2.8,GO:0045931,positive regulation of mitotic cell cycle,M1,1,0
+1,-2.4,GO:0042246,tissue regeneration,M1,1,0
+1,-3.5,GO:0051952,regulation of amine transport,M1,1,0
+1,-4.2,GO:0043043,peptide biosynthetic process,M1,1,0
+1,-2.6,GO:0006939,smooth muscle contraction,M1,1,0
+1,-3.3,GO:0000278,mitotic cell cycle,M1,1,0
+1,-2.2,GO:0022898,regulation of transmembrane transporter activity,M1,1,0
+1,-5.4,GO:0046903,secretion,M1,1,0
+1,-2.8,GO:0006839,mitochondrial transport,M1,1,0
+1,-2.4,GO:0090277,positive regulation of peptide hormone secretion,M1,1,0
+1,-2.7,GO:0006936,muscle contraction,M1,1,0
+1,-2.4,GO:0030239,myofibril assembly,M1,1,0
+1,-5.7,GO:0007007,inner mitochondrial membrane organization,M1,1,0
+1,-3.7,GO:0090151,establishment of protein localization to mitochondrial membrane,M1,1,0
+1,-2.2,GO:0009306,protein secretion,M1,1,0
+1,-2.5,GO:0099505,regulation of presynaptic membrane potential,M1,1,0
+1,-2.5,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,M1,1,0
+1,-3.5,GO:0051223,regulation of protein transport,M1,1,0
+1,-2.1,GO:0061383,trabecula morphogenesis,M1,1,0
+1,-2.1,GO:1903047,mitotic cell cycle process,M1,1,0
+1,-2.1,GO:0071692,protein localization to extracellular region,M1,1,0
+1,-3.6,GO:0032981,mitochondrial respiratory chain complex I assembly,M1,1,0
+1,-4.3,GO:0033108,mitochondrial respiratory chain complex assembly,M1,1,0
+1,-2.4,GO:0031100,animal organ regeneration,M1,1,0
+1,-3.6,GO:0010257,NADH dehydrogenase complex assembly,M1,1,0
+1,-2.5,GO:0060041,retina development in camera-type eye,M1,1,0
+1,-3,GO:0022407,regulation of cell-cell adhesion,M1,1,0
+1,-2.9,GO:0042391,regulation of membrane potential,M1,1,0
+1,-2,GO:1900047,negative regulation of hemostasis,M1,1,0
+1,-3.6,GO:0030029,actin filament-based process,M1,1,0
+1,-3.1,GO:0051047,positive regulation of secretion,M1,1,0
+1,-2.3,GO:0003018,vascular process in circulatory system,M1,1,0
+1,-2.1,GO:1905145,cellular response to acetylcholine,M1,1,0
+1,-4.6,GO:1990778,protein localization to cell periphery,M1,1,0
+1,-2,GO:0034440,lipid oxidation,M1,1,0
+1,-2.1,GO:0030195,negative regulation of blood coagulation,M1,1,0
+1,-2.6,GO:0045926,negative regulation of growth,M1,1,0
+1,-2.9,GO:0006029,proteoglycan metabolic process,M1,1,0
+1,-2.9,GO:0051590,positive regulation of neurotransmitter transport,M1,1,0
+1,-2,GO:0098754,detoxification,M1,1,0
+1,-2.2,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-2.1,GO:0002028,regulation of sodium ion transport,M1,1,0
+1,-2,GO:0099643,signal release from synapse,M1,1,0
+1,-2.3,GO:0002793,positive regulation of peptide secretion,M1,1,0
+1,-2.9,GO:0032024,positive regulation of insulin secretion,M1,1,0
+1,-2.4,GO:0001775,cell activation,M1,1,0
+1,-2,GO:0007269,neurotransmitter secretion,M1,1,0
+1,-2.3,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-7.5,GO:0072657,protein localization to membrane,M1,1,0
+1,-2.1,GO:1904950,negative regulation of establishment of protein localization,M1,1,0
+1,-2.4,GO:0045576,mast cell activation,M1,1,0
+1,-2.3,GO:0015986,proton motive force-driven ATP synthesis,M1,1,0
+1,-3.4,GO:0006518,peptide metabolic process,M1,1,0
+1,-2,GO:1904062,regulation of monoatomic cation transmembrane transport,M1,1,0
+1,-3,GO:1903037,regulation of leukocyte cell-cell adhesion,M1,1,0
+1,-2.7,GO:0048678,response to axon injury,M1,1,0
+1,-2.6,GO:0051588,regulation of neurotransmitter transport,M1,1,0
+1,-4.3,GO:0098916,anterograde trans-synaptic signaling,M1,1,0
+1,-3.3,GO:1903532,positive regulation of secretion by cell,M1,1,0
+1,-2.1,GO:0002062,chondrocyte differentiation,M1,1,0
+1,-3.2,GO:0002791,regulation of peptide secretion,M1,1,0
+1,-2.2,GO:0046649,lymphocyte activation,M1,1,0
+1,-3.9,GO:0031099,regeneration,M1,1,0
+1,-2.8,GO:0060343,trabecula formation,M1,1,0
+1,-4.6,GO:0002181,cytoplasmic translation,M1,1,0
+1,-3.6,GO:0048706,embryonic skeletal system development,M1,1,0
+1,-3.3,GO:0006886,intracellular protein transport,M1,1,0
+1,-3,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-2.3,GO:0072329,monocarboxylic acid catabolic process,M1,1,0
+1,-2.5,GO:0019233,sensory perception of pain,M1,1,0
+1,-2.2,GO:0002443,leukocyte mediated immunity,M1,1,0
+1,-2.7,GO:0007187,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",M1,1,0
+1,-2.6,GO:0006635,fatty acid beta-oxidation,M1,1,0
+1,-2.3,GO:0043269,regulation of monoatomic ion transport,M1,1,0
+1,-2.6,GO:0006940,regulation of smooth muscle contraction,M1,1,0
+1,-2.4,GO:0006897,endocytosis,M1,1,0
+1,-2.4,GO:1904951,positive regulation of establishment of protein localization,M1,1,0
+1,-2,GO:0061041,regulation of wound healing,M1,1,0
+1,-3.2,GO:0090276,regulation of peptide hormone secretion,M1,1,0
+1,-3,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-2.5,GO:0044057,regulation of system process,M1,1,0
+1,-2.1,GO:0006754,ATP biosynthetic process,M1,1,0
+1,-2.7,GO:0071396,cellular response to lipid,M1,1,0
+1,-2.9,GO:0022900,electron transport chain,M1,1,0
+1,-2.6,GO:0046887,positive regulation of hormone secretion,M1,1,0
+1,-3,GO:0061024,membrane organization,M1,1,0
+1,-2.1,GO:0043299,leukocyte degranulation,M1,1,0
+1,-2.1,GO:0010595,positive regulation of endothelial cell migration,M1,1,0
+1,-3.3,GO:0010977,negative regulation of neuron projection development,M1,1,0
+1,-2.2,GO:0070252,actin-mediated cell contraction,M1,1,0
+1,-2.8,GO:0097435,supramolecular fiber organization,M1,1,0
+1,-2.3,GO:1903039,positive regulation of leukocyte cell-cell adhesion,M1,1,0
+1,-2.2,GO:0045785,positive regulation of cell adhesion,M1,1,0
+1,-2.3,GO:0061045,negative regulation of wound healing,M1,1,0
+1,-3.7,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-2.1,GO:0095500,acetylcholine receptor signaling pathway,M1,1,0
+1,-2,GO:1901379,regulation of potassium ion transmembrane transport,M1,1,0
+1,-4.3,GO:0007268,chemical synaptic transmission,M1,1,0
+1,-2.2,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,M1,1,0
+1,-2.2,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-2.3,GO:0072655,establishment of protein localization to mitochondrion,M1,1,0
+1,-2.7,GO:0017157,regulation of exocytosis,M1,1,0
+1,-2.8,GO:0009062,fatty acid catabolic process,M1,1,0

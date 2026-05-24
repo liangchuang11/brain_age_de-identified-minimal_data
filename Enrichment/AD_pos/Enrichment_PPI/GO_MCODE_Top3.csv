@@ -1,0 +1,8 @@
+Network,Annotation
+MyList,GO:0007007|inner mitochondrial membrane organization|-7.0;GO:0043043|peptide biosynthetic process|-6.9;GO:0006412|translation|-6.4
+MyList_MCODE_ALL,GO:0006412|translation|-14.5;GO:0043043|peptide biosynthetic process|-14.1;GO:0006518|peptide metabolic process|-13.1
+MyList_SUB1_MCODE_1,GO:0002181|cytoplasmic translation|-17.0;GO:0006412|translation|-15.3;GO:0043043|peptide biosynthetic process|-15.0
+MyList_SUB1_MCODE_2,"GO:0007193|adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway|-11.3;GO:0007188|adenylate cyclase-modulating G protein-coupled receptor signaling pathway|-11.3;GO:0007187|G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger|-9.1"
+MyList_SUB1_MCODE_3,GO:0032543|mitochondrial translation|-6.0;GO:0140053|mitochondrial gene expression|-5.7;GO:0043161|proteasome-mediated ubiquitin-dependent protein catabolic process|-4.5
+MyList_SUB1_MCODE_4,GO:0006119|oxidative phosphorylation|-9.6;GO:0009060|aerobic respiration|-9.1;GO:0045333|cellular respiration|-8.8
+MyList_SUB1_MCODE_5,GO:1903047|mitotic cell cycle process|-5.3;GO:0000278|mitotic cell cycle|-5.1
