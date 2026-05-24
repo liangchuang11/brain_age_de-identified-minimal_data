@@ -1,0 +1,9 @@
+Network,Annotation
+MyList,GO:0007005|mitochondrion organization|-13.5;GO:0006091|generation of precursor metabolites and energy|-11.4;GO:0009060|aerobic respiration|-9.0
+MyList_MCODE_ALL,GO:0009060|aerobic respiration|-11.6;GO:0006119|oxidative phosphorylation|-11.2;GO:0015980|energy derivation by oxidation of organic compounds|-10.9
+MyList_SUB1_MCODE_1,GO:1902904|negative regulation of supramolecular fiber organization|-3.9;GO:0071805|potassium ion transmembrane transport|-3.8;GO:0006813|potassium ion transport|-3.8
+MyList_SUB1_MCODE_2,GO:0050821|protein stabilization|-5.8;GO:0031647|regulation of protein stability|-5.1;GO:0006886|intracellular protein transport|-4.3
+MyList_SUB1_MCODE_3,GO:0006119|oxidative phosphorylation|-20.0;GO:0009060|aerobic respiration|-18.8;GO:0045333|cellular respiration|-18.1
+MyList_SUB1_MCODE_4,GO:0006511|ubiquitin-dependent protein catabolic process|-9.7;GO:0019941|modification-dependent protein catabolic process|-9.7;GO:0043632|modification-dependent macromolecule catabolic process|-9.6
+MyList_SUB1_MCODE_5,GO:0010035|response to inorganic substance|-3.8
+MyList_SUB1_MCODE_6,GO:0032543|mitochondrial translation|-7.3;GO:0140053|mitochondrial gene expression|-7.0;GO:0006412|translation|-5.7

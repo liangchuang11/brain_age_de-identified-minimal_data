@@ -1,0 +1,246 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.1,GO:0016079,synaptic vesicle exocytosis,M1,1,0
+1,-4.3,GO:0099537,trans-synaptic signaling,M1,1,0
+1,-2.5,GO:1901873,regulation of post-translational protein modification,M1,1,0
+1,-5.8,GO:0006164,purine nucleotide biosynthetic process,M1,1,0
+1,-6.8,GO:0046034,ATP metabolic process,M1,1,0
+1,-3.2,GO:0031668,cellular response to extracellular stimulus,M1,1,0
+1,-11,GO:0007005,mitochondrion organization,M1,1,0
+1,-2.3,GO:0070507,regulation of microtubule cytoskeleton organization,M1,1,0
+1,-4,GO:0007006,mitochondrial membrane organization,M1,1,0
+1,-6.7,GO:0006605,protein targeting,M1,1,0
+1,-4.1,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-5,GO:0099536,synaptic signaling,M1,1,0
+1,-4.9,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-3.3,GO:0140352,export from cell,M1,1,0
+1,-6.7,GO:0009144,purine nucleoside triphosphate metabolic process,M1,1,0
+1,-2.4,GO:0031503,protein-containing complex localization,M1,1,0
+1,-2.4,GO:0048812,neuron projection morphogenesis,M1,1,0
+1,-2.1,GO:0099072,regulation of postsynaptic membrane neurotransmitter receptor levels,M1,1,0
+1,-4.2,GO:0010970,transport along microtubule,M1,1,0
+1,-3.8,GO:0031400,negative regulation of protein modification process,M1,1,0
+1,-6.3,GO:0009141,nucleoside triphosphate metabolic process,M1,1,0
+1,-3.2,GO:0140056,organelle localization by membrane tethering,M1,1,0
+1,-2.5,GO:1903861,positive regulation of dendrite extension,M1,1,0
+1,-2.7,GO:0007264,small GTPase mediated signal transduction,M1,1,0
+1,-2.3,GO:1990928,response to amino acid starvation,M1,1,0
+1,-2.7,GO:0098657,import into cell,M1,1,0
+1,-2.1,GO:0006457,protein folding,M1,1,0
+1,-2.1,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-5.8,GO:0051656,establishment of organelle localization,M1,1,0
+1,-2.7,GO:0006469,negative regulation of protein kinase activity,M1,1,0
+1,-2.4,GO:0043549,regulation of kinase activity,M1,1,0
+1,-5.8,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.5,GO:0032543,mitochondrial translation,M1,1,0
+1,-2.7,GO:0006470,protein dephosphorylation,M1,1,0
+1,-2.9,GO:0071496,cellular response to external stimulus,M1,1,0
+1,-3.3,GO:0051348,negative regulation of transferase activity,M1,1,0
+1,-3,GO:0035418,protein localization to synapse,M1,1,0
+1,-2.4,GO:0045859,regulation of protein kinase activity,M1,1,0
+1,-4.3,GO:0090150,establishment of protein localization to membrane,M1,1,0
+1,-2.5,GO:0043242,negative regulation of protein-containing complex disassembly,M1,1,0
+1,-2.6,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.6,GO:0006887,exocytosis,M1,1,0
+1,-3.9,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-3.2,GO:0098840,protein transport along microtubule,M1,1,0
+1,-2.4,GO:1902074,response to salt,M1,1,0
+1,-2.3,GO:0021954,central nervous system neuron development,M1,1,0
+1,-2.3,GO:0072659,protein localization to plasma membrane,M1,1,0
+1,-2.3,GO:1903859,regulation of dendrite extension,M1,1,0
+1,-2.9,GO:0051493,regulation of cytoskeleton organization,M1,1,0
+1,-2.4,GO:0043457,regulation of cellular respiration,M1,1,0
+1,-2,GO:0071241,cellular response to inorganic substance,M1,1,0
+1,-2.7,GO:0051338,regulation of transferase activity,M1,1,0
+1,-2.7,GO:0006090,pyruvate metabolic process,M1,1,0
+1,-2.4,GO:0097237,cellular response to toxic substance,M1,1,0
+1,-3.9,GO:0098930,axonal transport,M1,1,0
+1,-2.6,GO:0032386,regulation of intracellular transport,M1,1,0
+1,-2.1,GO:0031110,regulation of microtubule polymerization or depolymerization,M1,1,0
+1,-5.6,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-3.7,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-2.9,GO:0036465,synaptic vesicle recycling,M1,1,0
+1,-2,GO:0051648,vesicle localization,M1,1,0
+1,-4.7,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-4.2,GO:0010506,regulation of autophagy,M1,1,0
+1,-7.6,GO:0009060,aerobic respiration,M1,1,0
+1,-3.4,GO:0009267,cellular response to starvation,M1,1,0
+1,-2,GO:0043467,regulation of generation of precursor metabolites and energy,M1,1,0
+1,-4,GO:0051310,metaphase chromosome alignment,M1,1,0
+1,-2.3,GO:0051259,protein complex oligomerization,M1,1,0
+1,-6.6,GO:0045333,cellular respiration,M1,1,0
+1,-2.2,GO:0009612,response to mechanical stimulus,M1,1,0
+1,-3,GO:0006851,mitochondrial calcium ion transmembrane transport,M1,1,0
+1,-2.4,GO:0072599,establishment of protein localization to endoplasmic reticulum,M1,1,0
+1,-2.1,GO:0031346,positive regulation of cell projection organization,M1,1,0
+1,-2,GO:0009135,purine nucleoside diphosphate metabolic process,M1,1,0
+1,-2.7,GO:0005975,carbohydrate metabolic process,M1,1,0
+1,-2.5,GO:0061744,motor behavior,M1,1,0
+1,-2,GO:0018210,peptidyl-threonine modification,M1,1,0
+1,-5.1,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-2.4,GO:0045936,negative regulation of phosphate metabolic process,M1,1,0
+1,-4.9,GO:0007018,microtubule-based movement,M1,1,0
+1,-3,GO:0032940,secretion by cell,M1,1,0
+1,-2.5,GO:0010035,response to inorganic substance,M1,1,0
+1,-5.7,GO:0009165,nucleotide biosynthetic process,M1,1,0
+1,-3.3,GO:1902075,cellular response to salt,M1,1,0
+1,-2,GO:0009179,purine ribonucleoside diphosphate metabolic process,M1,1,0
+1,-3.8,GO:0019646,aerobic electron transport chain,M1,1,0
+1,-2.3,GO:0032989,cellular anatomical entity morphogenesis,M1,1,0
+1,-2,GO:0000070,mitotic sister chromatid segregation,M1,1,0
+1,-2,GO:0098655,monoatomic cation transmembrane transport,M1,1,0
+1,-2.6,GO:0097120,receptor localization to synapse,M1,1,0
+1,-2.9,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-2.4,GO:0009636,response to toxic substance,M1,1,0
+1,-7,GO:0006839,mitochondrial transport,M1,1,0
+1,-3.7,GO:0046903,secretion,M1,1,0
+1,-2.3,GO:0120039,plasma membrane bounded cell projection morphogenesis,M1,1,0
+1,-3.6,GO:0016241,regulation of macroautophagy,M1,1,0
+1,-2,GO:0006066,alcohol metabolic process,M1,1,0
+1,-2,GO:2001237,negative regulation of extrinsic apoptotic signaling pathway,M1,1,0
+1,-3.3,GO:0001764,neuron migration,M1,1,0
+1,-4.8,GO:0009117,nucleotide metabolic process,M1,1,0
+1,-3.2,GO:0099118,microtubule-based protein transport,M1,1,0
+1,-2.5,GO:0014075,response to amine,M1,1,0
+1,-9.8,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-2.4,GO:0010563,negative regulation of phosphorus metabolic process,M1,1,0
+1,-2.4,GO:1903320,regulation of protein modification by small protein conjugation or removal,M1,1,0
+1,-2.1,GO:0031114,regulation of microtubule depolymerization,M1,1,0
+1,-4.9,GO:0070585,protein localization to mitochondrion,M1,1,0
+1,-2.5,GO:0008089,anterograde axonal transport,M1,1,0
+1,-2.3,GO:0019318,hexose metabolic process,M1,1,0
+1,-2.2,GO:0098869,cellular oxidant detoxification,M1,1,0
+1,-2.8,GO:0031111,negative regulation of microtubule polymerization or depolymerization,M1,1,0
+1,-3,GO:0051315,attachment of mitotic spindle microtubules to kinetochore,M1,1,0
+1,-5.7,GO:1901293,nucleoside phosphate biosynthetic process,M1,1,0
+1,-3.1,GO:0042407,cristae formation,M1,1,0
+1,-4.9,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-2.1,GO:0032535,regulation of cellular component size,M1,1,0
+1,-3.2,GO:0072384,organelle transport along microtubule,M1,1,0
+1,-3.2,GO:0051495,positive regulation of cytoskeleton organization,M1,1,0
+1,-2.8,GO:0000278,mitotic cell cycle,M1,1,0
+1,-2.3,GO:0006468,protein phosphorylation,M1,1,0
+1,-7.4,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-5.4,GO:0051668,localization within membrane,M1,1,0
+1,-2.5,GO:0032984,protein-containing complex disassembly,M1,1,0
+1,-4.5,GO:0042773,ATP synthesis coupled electron transport,M1,1,0
+1,-6.9,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,M1,1,0
+1,-6.9,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-2.9,GO:0022406,membrane docking,M1,1,0
+1,-5.5,GO:0051303,establishment of chromosome localization,M1,1,0
+1,-6.8,GO:0009142,nucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.3,GO:0010498,proteasomal protein catabolic process,M1,1,0
+1,-4,GO:0031175,neuron projection development,M1,1,0
+1,-3.9,GO:0032981,mitochondrial respiratory chain complex I assembly,M1,1,0
+1,-2.8,GO:0007007,inner mitochondrial membrane organization,M1,1,0
+1,-3.2,GO:1902903,regulation of supramolecular fiber organization,M1,1,0
+1,-2.3,GO:0071248,cellular response to metal ion,M1,1,0
+1,-5.2,GO:0033108,mitochondrial respiratory chain complex assembly,M1,1,0
+1,-2.3,GO:0043244,regulation of protein-containing complex disassembly,M1,1,0
+1,-5.6,GO:0019693,ribose phosphate metabolic process,M1,1,0
+1,-3.2,GO:1902600,proton transmembrane transport,M1,1,0
+1,-2.2,GO:0032273,positive regulation of protein polymerization,M1,1,0
+1,-3.9,GO:0010257,NADH dehydrogenase complex assembly,M1,1,0
+1,-3.3,GO:1902905,positive regulation of supramolecular fiber organization,M1,1,0
+1,-2.1,GO:0045070,positive regulation of viral genome replication,M1,1,0
+1,-4.4,GO:0030705,cytoskeleton-dependent intracellular transport,M1,1,0
+1,-4.5,GO:0042775,mitochondrial ATP synthesis coupled electron transport,M1,1,0
+1,-2.1,GO:0006099,tricarboxylic acid cycle,M1,1,0
+1,-4.1,GO:0099111,microtubule-based transport,M1,1,0
+1,-2.1,GO:0018209,peptidyl-serine modification,M1,1,0
+1,-2.6,GO:0010038,response to metal ion,M1,1,0
+1,-2.3,GO:0018105,peptidyl-serine phosphorylation,M1,1,0
+1,-4.5,GO:0098916,anterograde trans-synaptic signaling,M1,1,0
+1,-3.8,GO:0099640,axo-dendritic protein transport,M1,1,0
+1,-2.9,GO:0048524,positive regulation of viral process,M1,1,0
+1,-2.7,GO:0051604,protein maturation,M1,1,0
+1,-2.3,GO:0051494,negative regulation of cytoskeleton organization,M1,1,0
+1,-2.1,GO:0090151,establishment of protein localization to mitochondrial membrane,M1,1,0
+1,-3,GO:0031647,regulation of protein stability,M1,1,0
+1,-5,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.7,GO:0098754,detoxification,M1,1,0
+1,-2.1,GO:0008608,attachment of spindle microtubules to kinetochore,M1,1,0
+1,-2.3,GO:0099643,signal release from synapse,M1,1,0
+1,-2.6,GO:0140053,mitochondrial gene expression,M1,1,0
+1,-5.2,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.8,GO:0017004,cytochrome complex assembly,M1,1,0
+1,-2.3,GO:1902414,protein localization to cell junction,M1,1,0
+1,-2.3,GO:0018107,peptidyl-threonine phosphorylation,M1,1,0
+1,-2.4,GO:0034198,cellular response to amino acid starvation,M1,1,0
+1,-2.3,GO:0007269,neurotransmitter secretion,M1,1,0
+1,-4.9,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-3.8,GO:0031667,response to nutrient levels,M1,1,0
+1,-6.6,GO:0072657,protein localization to membrane,M1,1,0
+1,-5.6,GO:0009150,purine ribonucleotide metabolic process,M1,1,0
+1,-2.2,GO:0008535,respiratory chain complex IV assembly,M1,1,0
+1,-6.4,GO:0015986,proton motive force-driven ATP synthesis,M1,1,0
+1,-2.3,GO:0001933,negative regulation of protein phosphorylation,M1,1,0
+1,-2.4,GO:0051560,mitochondrial calcium ion homeostasis,M1,1,0
+1,-2.5,GO:0006812,monoatomic cation transport,M1,1,0
+1,-7.1,GO:0009260,ribonucleotide biosynthetic process,M1,1,0
+1,-2.9,GO:1990778,protein localization to cell periphery,M1,1,0
+1,-4.3,GO:0030163,protein catabolic process,M1,1,0
+1,-2.5,GO:0090066,regulation of anatomical structure size,M1,1,0
+1,-2.4,GO:1990138,neuron projection extension,M1,1,0
+1,-2.3,GO:1901879,regulation of protein depolymerization,M1,1,0
+1,-6.9,GO:0006754,ATP biosynthetic process,M1,1,0
+1,-5.9,GO:0009259,ribonucleotide metabolic process,M1,1,0
+1,-4.8,GO:0099504,synaptic vesicle cycle,M1,1,0
+1,-2.1,GO:0051654,establishment of mitochondrion localization,M1,1,0
+1,-2.1,GO:0021953,central nervous system neuron differentiation,M1,1,0
+1,-7.2,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-6.5,GO:0006886,intracellular protein transport,M1,1,0
+1,-7.1,GO:0009201,ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.6,GO:0043086,negative regulation of catalytic activity,M1,1,0
+1,-2.7,GO:0016311,dephosphorylation,M1,1,0
+1,-2.5,GO:1990748,cellular detoxification,M1,1,0
+1,-2.5,GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",M1,1,0
+1,-4.4,GO:0006163,purine nucleotide metabolic process,M1,1,0
+1,-3.8,GO:0099641,anterograde axonal protein transport,M1,1,0
+1,-2.2,GO:0016051,carbohydrate biosynthetic process,M1,1,0
+1,-3.2,GO:0048285,organelle fission,M1,1,0
+1,-2.6,GO:0033673,negative regulation of kinase activity,M1,1,0
+1,-3.3,GO:0006897,endocytosis,M1,1,0
+1,-2.1,GO:0009582,detection of abiotic stimulus,M1,1,0
+1,-2.9,GO:0000266,mitochondrial fission,M1,1,0
+1,-4.4,GO:0008088,axo-dendritic transport,M1,1,0
+1,-2.7,GO:0050821,protein stabilization,M1,1,0
+1,-3,GO:0006979,response to oxidative stress,M1,1,0
+1,-4.8,GO:0006626,protein targeting to mitochondrion,M1,1,0
+1,-3.5,GO:0009991,response to extracellular stimulus,M1,1,0
+1,-3.2,GO:0097284,hepatocyte apoptotic process,M1,1,0
+1,-3.2,GO:0007080,mitotic metaphase chromosome alignment,M1,1,0
+1,-2.3,GO:0044092,negative regulation of molecular function,M1,1,0
+1,-6.9,GO:0046390,ribose phosphate biosynthetic process,M1,1,0
+1,-5,GO:0010638,positive regulation of organelle organization,M1,1,0
+1,-3.2,GO:0048488,synaptic vesicle endocytosis,M1,1,0
+1,-2.8,GO:0010639,negative regulation of organelle organization,M1,1,0
+1,-7.2,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-5.2,GO:0050000,chromosome localization,M1,1,0
+1,-5.3,GO:0099003,vesicle-mediated transport in synapse,M1,1,0
+1,-2.3,GO:0048858,cell projection morphogenesis,M1,1,0
+1,-2.1,GO:0043254,regulation of protein-containing complex assembly,M1,1,0
+1,-6.5,GO:0022900,electron transport chain,M1,1,0
+1,-5.6,GO:0072522,purine-containing compound biosynthetic process,M1,1,0
+1,-5.7,GO:0061024,membrane organization,M1,1,0
+1,-2.2,GO:0032870,cellular response to hormone stimulus,M1,1,0
+1,-2.2,GO:0032886,regulation of microtubule-based process,M1,1,0
+1,-7.3,GO:0009145,purine nucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.2,GO:0007610,behavior,M1,1,0
+1,-2.5,GO:0009725,response to hormone,M1,1,0
+1,-2.3,GO:0140014,mitotic nuclear division,M1,1,0
+1,-2.1,GO:0042176,regulation of protein catabolic process,M1,1,0
+1,-3.3,GO:0042594,response to starvation,M1,1,0
+1,-2.5,GO:0042326,negative regulation of phosphorylation,M1,1,0
+1,-3.2,GO:0140238,presynaptic endocytosis,M1,1,0
+1,-2.2,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-6.8,GO:0051640,organelle localization,M1,1,0
+1,-2.3,GO:0007026,negative regulation of microtubule depolymerization,M1,1,0
+1,-4.5,GO:0007268,chemical synaptic transmission,M1,1,0
+1,-6.7,GO:0009199,ribonucleoside triphosphate metabolic process,M1,1,0
+1,-3,GO:0031109,microtubule polymerization or depolymerization,M1,1,0
+1,-6.8,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-3.8,GO:1905383,protein localization to presynapse,M1,1,0
+1,-2.7,GO:0000226,microtubule cytoskeleton organization,M1,1,0
+1,-4.4,GO:0072655,establishment of protein localization to mitochondrion,M1,1,0
+1,-2.1,GO:0008637,apoptotic mitochondrial changes,M1,1,0
+1,-6.7,GO:0009152,purine ribonucleotide biosynthetic process,M1,1,0
