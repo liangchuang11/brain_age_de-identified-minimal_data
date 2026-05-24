@@ -1,0 +1,16 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-10.061440011987889,GO:0051179,localization,M1,1,GO:0006897 endocytosis
+1,-7.069571822856165,GO:0008152,metabolic process,M1,1,GO:0005975 carbohydrate metabolic process
+1,-6.697009342808489,GO:0050896,response to stimulus,M1,1,GO:0007264 small GTPase mediated signal transduction
+1,-5.383607079549668,GO:0032502,developmental process,M1,1,GO:0030099 myeloid cell differentiation
+1,-5.1527705527222745,GO:0048518,positive regulation of biological process,M1,1,GO:0032103 positive regulation of response to external stimulus
+1,-4.946053040418489,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0034142 toll-like receptor 4 signaling pathway
+1,-4.8106127343944225,GO:0042592,homeostatic process,M1,1,GO:0048871 multicellular organismal-level homeostasis
+1,-4.7782109831905295,GO:0002376,immune system process,M1,1,GO:0002757 immune response-activating signaling pathway
+1,-4.3707809778947215,GO:0009987,cellular process,M1,1,GO:0042274 ribosomal small subunit biogenesis
+1,-4.07651273686363,GO:0032501,multicellular organismal process,M1,1,GO:0003013 circulatory system process
+1,-3.8491701840579147,GO:0050789,regulation of biological process,M1,1,GO:0051493 regulation of cytoskeleton organization
+1,-3.6341340829446556,GO:0065007,biological regulation,M1,1,GO:0044092 negative regulation of molecular function
+1,-3.6066072122079587,GO:0048519,negative regulation of biological process,M1,1,GO:1902373 negative regulation of mRNA catabolic process
+1,-2.916119386104071,GO:0016032,viral process,M1,1,GO:0043923 positive regulation by host of viral transcription
+1,-2.2609962028682187,GO:0040011,locomotion,M1,1,GO:0002690 positive regulation of leukocyte chemotaxis
