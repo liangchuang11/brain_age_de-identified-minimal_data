@@ -1,0 +1,21 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-12.846676622629262,GO:0008152,metabolic process,M1,1,GO:0016126 sterol biosynthetic process
+1,-9.409209645115876,GO:0050896,response to stimulus,M1,1,GO:0009636 response to toxic substance
+1,-8.896320563884588,GO:0002376,immune system process,M1,1,GO:0045321 leukocyte activation
+1,-8.73494643914706,GO:0051179,localization,M1,1,GO:0051046 regulation of secretion
+1,-8.53720146603545,GO:0009987,cellular process,M1,1,GO:0030029 actin filament-based process
+1,-8.371443490283864,GO:0032501,multicellular organismal process,M1,1,GO:0001775 cell activation
+1,-8.356101834007141,GO:0032502,developmental process,M1,1,GO:0010721 negative regulation of cell development
+1,-8.152353835935713,GO:0048519,negative regulation of biological process,M1,1,GO:0008285 negative regulation of cell population proliferation
+1,-7.83268794118757,GO:0065007,biological regulation,M1,1,GO:0010817 regulation of hormone levels
+1,-7.413437712133672,GO:0098754,detoxification,M1,1,GO:0010273 detoxification of copper ion
+1,-7.124888347084388,GO:0048518,positive regulation of biological process,M1,1,GO:0045785 positive regulation of cell adhesion
+1,-6.244094279017275,GO:0042592,homeostatic process,M1,1,GO:0006882 intracellular zinc ion homeostasis
+1,-6.138675252094756,GO:0040007,growth,M1,1,GO:0045926 negative regulation of growth
+1,-5.452478902417331,GO:0050789,regulation of biological process,M1,1,GO:0070663 regulation of leukocyte proliferation
+1,-5.017277692141011,GO:0040011,locomotion,M1,1,GO:0030335 positive regulation of cell migration
+1,-4.352840004729911,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0045087 innate immune response
+1,-4.234912416336725,GO:0022414,reproductive process,M1,1,GO:0048608 reproductive structure development
+1,-4.153938949430713,GO:0043473,pigmentation,M1,1,GO:0032438 melanosome organization
+1,-2.5082392186020144,GO:0016032,viral process,M1,1,GO:0019058 viral life cycle
+1,-2.2053048562726207,GO:0048511,rhythmic process,M1,1,GO:0048511 rhythmic process
