@@ -1,0 +1,349 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+<body ng-app="app">
+<div class="container">
+        <h2>Metascape Gene List Analysis Report</h2><p/>  <a href="http://metascape.org">metascape.org</a><sup>1</sup><p/>
+
+              <h3>Bar Graph Summary</h3>
+              <div class="panel panel-info">
+                <div class="panel-heading">Figure 1. Bar graph of enriched terms across input gene lists, colored by p-values.</div>
+                <div class="panel-body">
+
+                <table>
+                    <tr>
+                        <td>
+                            <img src="./Enrichment_heatmap/HeatmapSelectedGO.png" style="width:1000px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align='center'>
+                            
+                <a href='./Enrichment_heatmap/HeatmapSelectedGO.pdf' title='download PDF file'>
+                <img class='link' src='icon/PDF48.png' >
+                </a>
+                
+                        </td>
+                    </tr>
+                    
+                <tr><td>Metascape only visualizes the top 20 clusters. Up to 100 enriched clusters can be viewed here.<br>
+                <a href="./Enrichment_heatmap/HeatmapSelectedGOTop100.png"><img src="./Enrichment_heatmap/HeatmapSelectedGOTop100.png" style="height:auto; width:auto; max-height:100px;"></a>
+                <a href='./Enrichment_heatmap/HeatmapSelectedGOTop100.pdf' title='download PDF file'>
+                <img class='link' src='icon/PDF48.png' >
+                </a></td></tr>
+                
+                <tr><td>The top-level Gene Ontology biological processes can be viewed here.<br>
+                <a href="./Enrichment_heatmap/HeatmapSelectedGOParent.png"><img src="./Enrichment_heatmap/HeatmapSelectedGOParent.png" style="height:auto; width:auto; max-height:100px;"></a>
+                <a href='./Enrichment_heatmap/HeatmapSelectedGOParent.pdf' title='download PDF file'>
+                <img class='link' src='icon/PDF48.png' >
+                </a></td></tr>
+                
+                </table>
+                </div>
+              </div><p/>
+      <h3>Gene Lists</h3>
+      User-provided gene identifiers are first converted into their corresponding H. sapiens Entrez gene IDs using the latest version of the database (last updated on 2024-01-01).  If multiple identifiers correspond to the same Entrez gene ID, they will be considered as a single Entrez gene ID in downstream analyses.   The gene lists are summarized in Table 1.<p/>
+          <div class="panel panel-info">
+            <div class="panel-heading">Table 1. Statistics of input gene lists.</div>
+            <div class="panel-body"><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">Name</TH>
+      <TH class="info">Total</TH>
+      <TH class="info">Unique</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>MyList</TD>
+      <TD>778</TD>
+      <TD>775</TD>
+    </TR>
+  </TBODY>
+</TABLE></div>
+          </div>
+
+
+
+
+              <h3>Pathway and Process Enrichment Analysis</h3>
+              For each given gene list, pathway and process enrichment analysis have been carried out with the following ontology sources: GO Biological Processes.  All genes in the genome have been used as the enrichment background. Terms with a p-value &lt; 0.01, a minimum count of 3, and an enrichment factor &gt; 1.5 (the enrichment factor is the ratio between the observed counts and the counts expected by chance) are collected and grouped into clusters based on their membership similarities.  More specifically, p-values are calculated based on the cumulative hypergeometric distribution<sup>2</sup>, and q-values are calculated using the Benjamini-Hochberg procedure to account for multiple testings<sup>3</sup>.  Kappa scores<sup>4</sup> are used as the similarity metric when performing hierarchical clustering on the enriched terms, and sub-trees with a similarity of > 0.3 are considered a cluster.  The most statistically significant term within a cluster is chosen to represent the cluster.<p/>
+          <div class="panel panel-info">
+          <div class="panel-heading">Table 2. Top 20 clusters with their representative enriched terms (one per cluster).  "Count" is the number of genes in the user-provided lists with membership in the given ontology term. "%" is the percentage of all of the user-provided genes that are found in the given ontology term (only input genes with at least one ontology term annotation are included in the calculation).  "Log10(P)" is the p-value in log base 10.  "Log10(q)" is the multi-test adjusted p-value in log base 10.</div>
+                <div class="panel-body"><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">GO</TH>
+      <TH class="info">Category</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Count</TH>
+      <TH class="info">%</TH>
+      <TH class="info">Log10(P)</TH>
+      <TH class="info">Log10(q)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>GO:0002181</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>cytoplasmic translation</TD>
+      <TD>44</TD>
+      <TD>5.72</TD>
+      <TD>-37.84</TD>
+      <TD>-33.66</TD>
+    </TR>
+    <TR>
+      <TD>GO:0048667</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>cell morphogenesis involved in neuron differentiation</TD>
+      <TD>37</TD>
+      <TD>4.81</TD>
+      <TD>-9.59</TD>
+      <TD>-6.32</TD>
+    </TR>
+    <TR>
+      <TD>GO:0002399</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>MHC class II protein complex assembly</TD>
+      <TD>8</TD>
+      <TD>1.04</TD>
+      <TD>-8.75</TD>
+      <TD>-5.61</TD>
+    </TR>
+    <TR>
+      <TD>GO:0030097</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>hemopoiesis</TD>
+      <TD>45</TD>
+      <TD>5.85</TD>
+      <TD>-8.18</TD>
+      <TD>-5.12</TD>
+    </TR>
+    <TR>
+      <TD>GO:1903039</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>positive regulation of leukocyte cell-cell adhesion</TD>
+      <TD>26</TD>
+      <TD>3.38</TD>
+      <TD>-7.96</TD>
+      <TD>-4.98</TD>
+    </TR>
+    <TR>
+      <TD>GO:0001775</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>cell activation</TD>
+      <TD>45</TD>
+      <TD>5.85</TD>
+      <TD>-7.41</TD>
+      <TD>-4.57</TD>
+    </TR>
+    <TR>
+      <TD>GO:1903530</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>regulation of secretion by cell</TD>
+      <TD>38</TD>
+      <TD>4.94</TD>
+      <TD>-7.14</TD>
+      <TD>-4.38</TD>
+    </TR>
+    <TR>
+      <TD>GO:0050878</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>regulation of body fluid levels</TD>
+      <TD>28</TD>
+      <TD>3.64</TD>
+      <TD>-6.88</TD>
+      <TD>-4.15</TD>
+    </TR>
+    <TR>
+      <TD>GO:0052372</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>modulation by symbiont of entry into host</TD>
+      <TD>11</TD>
+      <TD>1.43</TD>
+      <TD>-6.86</TD>
+      <TD>-4.14</TD>
+    </TR>
+    <TR>
+      <TD>GO:0007589</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>body fluid secretion</TD>
+      <TD>12</TD>
+      <TD>1.56</TD>
+      <TD>-6.40</TD>
+      <TD>-3.78</TD>
+    </TR>
+    <TR>
+      <TD>GO:0008285</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>negative regulation of cell population proliferation</TD>
+      <TD>45</TD>
+      <TD>5.85</TD>
+      <TD>-6.38</TD>
+      <TD>-3.77</TD>
+    </TR>
+    <TR>
+      <TD>GO:0050778</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>positive regulation of immune response</TD>
+      <TD>38</TD>
+      <TD>4.94</TD>
+      <TD>-5.71</TD>
+      <TD>-3.24</TD>
+    </TR>
+    <TR>
+      <TD>GO:0071345</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>cellular response to cytokine stimulus</TD>
+      <TD>41</TD>
+      <TD>5.33</TD>
+      <TD>-5.56</TD>
+      <TD>-3.11</TD>
+    </TR>
+    <TR>
+      <TD>GO:0042273</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>ribosomal large subunit biogenesis</TD>
+      <TD>11</TD>
+      <TD>1.43</TD>
+      <TD>-5.53</TD>
+      <TD>-3.10</TD>
+    </TR>
+    <TR>
+      <TD>GO:0070848</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>response to growth factor</TD>
+      <TD>32</TD>
+      <TD>4.16</TD>
+      <TD>-5.35</TD>
+      <TD>-2.95</TD>
+    </TR>
+    <TR>
+      <TD>GO:0002931</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>response to ischemia</TD>
+      <TD>10</TD>
+      <TD>1.30</TD>
+      <TD>-5.27</TD>
+      <TD>-2.90</TD>
+    </TR>
+    <TR>
+      <TD>GO:1900152</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay</TD>
+      <TD>5</TD>
+      <TD>0.65</TD>
+      <TD>-5.15</TD>
+      <TD>-2.78</TD>
+    </TR>
+    <TR>
+      <TD>GO:0007610</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>behavior</TD>
+      <TD>35</TD>
+      <TD>4.55</TD>
+      <TD>-5.01</TD>
+      <TD>-2.67</TD>
+    </TR>
+    <TR>
+      <TD>GO:0016055</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>Wnt signaling pathway</TD>
+      <TD>21</TD>
+      <TD>2.73</TD>
+      <TD>-4.92</TD>
+      <TD>-2.60</TD>
+    </TR>
+    <TR>
+      <TD>GO:0120035</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>regulation of plasma membrane bounded cell projection organization</TD>
+      <TD>36</TD>
+      <TD>4.68</TD>
+      <TD>-4.81</TD>
+      <TD>-2.51</TD>
+    </TR>
+  </TBODY>
+</TABLE></div>
+              </div><p/>
+                  To further capture the relationships between the terms, a subset of enriched terms has been selected and rendered as a network plot, where terms with a similarity &gt; 0.3 are connected by edges.  We select the terms with the best p-values from each of the 20 clusters, with the constraint that there are no more than 15 terms per cluster and no more than 250 terms in total.  The network is visualized using <a href="http://www.cytoscape.org">Cytoscape</a><sup>5</sup>, where each node represents an enriched term and is colored first by its cluster ID (Figure 2.a) and then by its p-value (Figure 2.b).  These networks can be interactively viewed in Cytoscape through the .cys files (contained in the Zip package, which also contains a publication-quality version as a PDF) or within a browser by clicking on the web icon.  For clarity, term labels are only shown for one term per cluster, so it is recommended to use Cytoscape or a browser to visualize the network in order to inspect all node labels.  We can also export the network into a PDF file within Cytoscape, and then edit the labels using Adobe Illustrator for publication purposes.  To switch off all labels, delete the "Label" mapping under the "Style" tab within Cytoscape, and then export the network view.<p/>
+                  <div class="panel panel-info">
+                    <div class="panel-heading">Figure 2. Network of enriched terms: (a) colored by cluster ID, where nodes that share the same cluster ID are typically close to each other; (b) colored by p-value, where terms containing more genes tend to have a more significant p-value.</div>
+                    <div class="panel-body">
+                    <table>
+                        <tr>
+                            <td>
+                                <img src="./Enrichment_GO/ColorByCluster.png" style="width:500px;">
+                            </td>
+                            <td>
+                                <img src="./Enrichment_GO/ColorByPValue.png" style="width:500px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align='center'>
+                                <a href='./Enrichment_GO/ColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_GO/GONetwork.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_GO/GONetwork.html?Network=GONetwork&Style=ColorByCluster' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    
+                            </td>
+                            <td align='center'>
+                                <a href='./Enrichment_GO/ColorByPValue.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_GO/GONetwork.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_GO/GONetwork.html?Network=GONetwork&Style=ColorByPValue' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    
+                            </td>
+                        </tr>
+                    </table>
+                    </div>
+
+                  </div><p/>
+<h3>Protein-protein Interaction Enrichment Analysis</h3>
+For each given gene list, protein-protein interaction enrichment analysis has been carried out with the following databases: STRING<sup>6</sup>, BioGrid<sup>7</sup>, OmniPath<sup>8</sup>, InWeb_IM<sup>9</sup>.Only physical interactions in STRING (physical score &gt 0.132) and BioGrid are used (<a href="http://metascape.org/blog/?p=219">details</a>).  The resultant network contains the subset of proteins that form physical interactions with at least one other member in the list.  If the network contains between 3 and 500 proteins, the Molecular Complex Detection (MCODE) algorithm<sup>10</sup> has been applied to identify densely connected network components.  
+
+
+    <h3>Reference</h3></p>
+    <ol style="list-style: decimal inside;">
+      <li>Zhou et al., Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. Nature Communications (2019) 10(1):1523.</li>
+      <li>Zar, J.H. Biostatistical Analysis 1999 4th edn., NJ Prentice Hall, pp. 523</li>
+      <li>Hochberg Y., Benjamini Y. More powerful procedures for multiple significance testing. Statistics in Medicine (1990) 9:811-818.</li>
+      <li>Cohen, J. A coefficient of agreement for nominal scales. Educ. Psychol. Meas. (1960) 20:27-46.</li>
+      <li>Shannon P. et al., Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res (2003) 11:2498-2504.</li>
+      <li>Szklarczyk D. et al. STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Res. (2019) 47:D607-613.</li>
+      <li>Stark C. et al. BioGRID: a general repository for interaction datasets. Nucleic Acids Res. (2006) 34:D535-539.</li>
+      <li>Turei D. et al. A scored human protein-protein interaction network to catalyze genomic interpretation. Nat. Methods. (2016) 13:966-967.</li>
+      <li>Li T. et al. A scored human protein-protein interaction network to catalyze genomic interpretation. Nat. Methods. (2017) 14:61-64.</li>
+      <li>Bader, G.D. et al. An automated method for finding molecular complexes in large protein interaction networks. BMC bioinformatics (2003) 4:2.</li>
+</ol>
+</div>
+
+</body></html>
