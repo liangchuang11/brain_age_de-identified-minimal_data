@@ -1,0 +1,7 @@
+Network,Annotation
+MyList,GO:0006259|DNA metabolic process|-8.5;GO:0051028|mRNA transport|-7.4;GO:0050658|RNA transport|-6.6
+MyList_MCODE_ALL,GO:0051028|mRNA transport|-13.9;GO:0050658|RNA transport|-13.0;GO:0050657|nucleic acid transport|-13.0
+MyList_SUB1_MCODE_1,GO:0051028|mRNA transport|-16.7;GO:0050657|nucleic acid transport|-16.1;GO:0050658|RNA transport|-16.1
+MyList_SUB1_MCODE_2,GO:0008380|RNA splicing|-10.4;GO:0006397|mRNA processing|-9.9;GO:0016071|mRNA metabolic process|-9.2
+MyList_SUB1_MCODE_4,GO:0036297|interstrand cross-link repair|-11.6;GO:0006513|protein monoubiquitination|-11.3;GO:0006281|DNA repair|-7.1
+MyList_SUB1_MCODE_5,GO:0030198|extracellular matrix organization|-5.5;GO:0043062|extracellular structure organization|-5.5;GO:0045229|external encapsulating structure organization|-5.5

@@ -1,0 +1,15 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-6.805082725644515,GO:0008152,metabolic process,M1,1,GO:0006259 DNA metabolic process
+1,-5.817137615587164,GO:0051179,localization,M1,1,GO:0051028 mRNA transport
+1,-5.787051345734255,GO:0050896,response to stimulus,M1,1,GO:0006974 DNA damage response
+1,-4.395245882662349,GO:0048519,negative regulation of biological process,M1,1,GO:0035196 miRNA processing
+1,-3.4411331187419747,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0009615 response to virus
+1,-3.3471994610962326,GO:0032502,developmental process,M1,1,GO:0010745 negative regulation of macrophage derived foam cell differentiation
+1,-3.2538639950122534,GO:0009987,cellular process,M1,1,GO:0006999 nuclear pore organization
+1,-3.1672599621917144,GO:0002376,immune system process,M1,1,GO:2000318 positive regulation of T-helper 17 type immune response
+1,-3.119125000473048,GO:0050789,regulation of biological process,M1,1,GO:0010564 regulation of cell cycle process
+1,-2.9640546589081302,GO:0032501,multicellular organismal process,M1,1,GO:0032642 regulation of chemokine production
+1,-2.585785155349265,GO:0048518,positive regulation of biological process,M1,1,GO:1902993 positive regulation of amyloid precursor protein catabolic process
+1,-2.4179217132297315,GO:0022414,reproductive process,M1,1,GO:0008585 female gonad development
+1,-2.409775403928742,GO:0042592,homeostatic process,M1,1,GO:0048872 homeostasis of number of cells
+1,-2.326009921671182,GO:0065007,biological regulation,M1,1,GO:0097035 regulation of membrane lipid distribution
