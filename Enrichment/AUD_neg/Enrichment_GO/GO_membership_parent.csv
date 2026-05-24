@@ -1,0 +1,17 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-15.281151519403043,GO:0051179,localization,M1,1,GO:0098660 inorganic ion transmembrane transport
+1,-12.576169080363043,GO:0050789,regulation of biological process,M1,1,GO:0099536 synaptic signaling
+1,-10.152860248651153,GO:0008152,metabolic process,M1,1,GO:0016310 phosphorylation
+1,-7.4080970415993415,GO:0065007,biological regulation,M1,1,GO:0042391 regulation of membrane potential
+1,-7.385066483133211,GO:0050896,response to stimulus,M1,1,GO:1902074 response to salt
+1,-7.065400285472332,GO:0032502,developmental process,M1,1,GO:0010975 regulation of neuron projection development
+1,-6.234039492863437,GO:0009987,cellular process,M1,1,GO:0050808 synapse organization
+1,-6.205378862114877,GO:0048511,rhythmic process,M1,1,GO:0042752 regulation of circadian rhythm
+1,-5.984365781033433,GO:0032501,multicellular organismal process,M1,1,GO:0007610 behavior
+1,-4.942658284079709,GO:0048518,positive regulation of biological process,M1,1,GO:1901875 positive regulation of post-translational protein modification
+1,-4.602651088075866,GO:0040007,growth,M1,1,GO:0048589 developmental growth
+1,-4.2114882279152885,GO:0042592,homeostatic process,M1,1,GO:0019725 cellular homeostasis
+1,-3.479631744079621,GO:0048519,negative regulation of biological process,M1,1,GO:1902532 negative regulation of intracellular signal transduction
+1,-2.5793236695533706,GO:0002376,immune system process,M1,1,GO:0048534 hematopoietic or lymphoid organ development
+1,-2.248851039721705,GO:0040011,locomotion,M1,1,GO:0050919 negative chemotaxis
+1,-2.2196182165037652,GO:0022414,reproductive process,M1,1,GO:0022605 mammalian oogenesis stage
